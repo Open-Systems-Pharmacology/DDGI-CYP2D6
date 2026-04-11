@@ -2,10 +2,10 @@
 
 
 
-| Version                         | 1.0-OSP11.0                                                   |
+| Version                         | x.x-OSPy.y                                                   |
 | ------------------------------- | ------------------------------------------------------------ |
-| Qualification Plan Release      | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-CYP2C19/releases/tag/vx.x |
-| OSP Version                     | 11.0                                                         |
+| Qualification Plan Release      | https://github.com/Open-Systems-Pharmacology/Qualification-DDGI-CYP2D6/releases/tag/vx.x |
+| OSP Version                     | y.y                                                          |
 | Qualification Framework Version | z.z                                                          |
 
 
