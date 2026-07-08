@@ -24,13 +24,13 @@
 
 **Damkier 1999a** P. Damkier, L. L. Hansen, and K. Brøsen. Effect of fluvoxamine on the pharmacokinetics of quinidine. European Journal of Clinical Pharmacology, 55(6):451–456, 1999. doi: 10.1007/s002280050655.
 
-**Damkier 1999b** P. Damkier, L. L. Hansen, and K. Brøsen. Effect of diclofenac, disulfiram, itraconazole, grapefruit juice and erythromycin on the pharmacokinetics of quinidine. British Journal of Clinical Pharmacology, 48(6):829–838, 1999.doi: 10.1046/j.1365-2125.1999.00099.x.
+**Damkier 1999b** P. Damkier, L. L. Hansen, and K. Brøsen. Effect of diclofenac, disulfiram, itraconazole, grapefruit juice and erythromycin on the pharmacokinetics of quinidine. British Journal of Clinical Pharmacology, 48(6):829–838, 1999. doi: 10.1046/j.1365-2125.1999.00099.x.
 
-**Edwards 1987** D. J. Edwards, R. Lavoie, H. Beckman, R. Blevins, and M. Rubenfire. The effect of coadministration of verapamil on the pharmacokinetics and metabolism of quinidine. Clinical Pharmacology and Therapeutics, 41(1):68–73,1987. doi: 10.1038/clpt.1987.11.
+**Edwards 1987** D. J. Edwards, R. Lavoie, H. Beckman, R. Blevins, and M. Rubenfire. The effect of coadministration of verapamil on the pharmacokinetics and metabolism of quinidine. Clinical Pharmacology and Therapeutics, 41(1):68–73, 1987. doi: 10.1038/clpt.1987.11.
 
 **Guest 2011** Guest EJ, Aarons L, Houston JB, Rostami-Hodjegan A, Galetin A. Critique of the two-fold measure of prediction success for ratios: application for the assessment of drug-drug interactions. Drug Metab Dispos. 2011 Feb;39(2):170-3.
 
-**Hardy 1983** B. G. Hardy and J. J. Schentag. Lack of effect of cimetidine on the metabolism of quinidine: effect on renal clearance. International journal of clinical pharmacology, therapy, and toxicology, 26(8):388–91, 1983.
+**Hardy 1988** B. G. Hardy and J. J. Schentag. Lack of effect of cimetidine on the metabolism of quinidine: effect on renal clearance. International journal of clinical pharmacology, therapy, and toxicology, 26(8):388-391, 1988.
 
 **Hemeryck 2000** A. Hemeryck, R. A. Lefebvre, C. De Vriendt, and F. M. Belpaire. Paroxetine affects metoprolol pharmacokinetics and pharmacodynamics in healthy volunteers. Clinical pharmacology and therapeutics, 67(3):283–91, 2000. doi: 10.1067/mcp.2000.104788.
 
@@ -40,7 +40,7 @@
 
 **Kaukonen 1997** K. M. Kaukonen, K. T. Olkkola, and P. J. Neuvonen. Itraconazole increases plasma concentrations of quinidine. Clinical pharmacology and therapeutics, 62(5):510–7, 1997. doi: 10.1016/S0009-9236(97)90046-1.
 
-**Kim 2018** K.-A. Kim, P.-W. Park, K.-H. Liu, K.-B. Kim, H.-J. Lee, J.-G. Shin, and J.-Y. Park. Effect of rifampin, an inducer of CYP3A and P-glycoprotein, on the pharmacokinetics of risperidone. Journal of clinical pharmacology, 48(1): 66–72, 2008. doi: 10.1177/0091270007309888.
+**Kim 2008** K.-A. Kim, P.-W. Park, K.-H. Liu, K.-B. Kim, H.-J. Lee, J.-G. Shin, and J.-Y. Park. Effect of rifampin, an inducer of CYP3A and P-glycoprotein, on the pharmacokinetics of risperidone. Journal of clinical pharmacology, 48(1):66–72, 2008. doi: 10.1177/0091270007309888.
 
 **Kirch 1982** W. Kirch, H. Spahn, H. Köhler, E. E. Ohnhaus, and E. Mutschler. Interaction of metoprolol, propranolol and atenolol with concurrent administration of cimetidine. Klinische Wochenschrift, 60(22):1401–7, 1982. doi: 10.1007/BF01716245.
 
@@ -64,13 +64,9 @@
 
 **Reese 2008** M. J. Reese, R. M. Wurm, K. T. Muir, G. T. Generaux, L. St John-Williams, and D. J. McConn. An in vitro mechanistic study to elucidate the desipramine/bupropion clinical drug-drug interaction. Drug metabolism and disposition: the biological fate of chemicals, 36(7):1198–201, 2008. doi: 10.1124/dmd.107.020198.
 
-**Sauer 2004** J.-M. Sauer, A. J. Long, B. Ring, J. S. Gillespie, N. P. Sanburn, K. A. DeSante, D. Petullo, M. R. VandenBranden, C. B. Jensen, S. A. Wrighton, B. P. Smith, H. A. Read, and J. W. Witcher. Atomoxetine Hydrochloride: Clinical Drug-Drug Interaction Prediction and Outcome. Journal of Pharmacology and Experimental Therapeutics, 308(2): 410–418, 2004. doi: 10.1124/jpet.103.058727.
-
 **Sauer 2004** J.-M. Sauer, A. J. Long, B. Ring, J. S. Gillespie, N. P. Sanburn, K. A. DeSante, D. Petullo, M. R. VandenBranden, C. B. Jensen, S. A. Wrighton, B. P. Smith, H. A. Read, and J. W. Witcher. Atomoxetine Hydrochloride: Clinical Drug-Drug Interaction Prediction and Outcome. Journal of Pharmacology and Experimental Therapeutics, 308(2):410–418, 2004. doi: 10.1124/jpet.103.058727.
 
 **Schadel 1995** M. Schadel, D. Wu, S. V. Otton, W. Kalow, and E. M. Sellers. Pharmacokinetics of dextromethorphan and metabolites in humans. Journal of Clinical Psychopharmacology, 15(4):263–269, 1995. doi: 10.1097/00004714-199508000-00005.
-
-**Schoedel 2012** K. A. Schoedel, L. E. Pope, and E. M. Sellers. Randomized open-label drug-drug interaction trial of dextromethorphan/quinidine and paroxetine in healthy volunteers. Clinical Drug Investigation, 32(3):157–169, 2012. doi: 10.2165/11599870-000000000-00000.
 
 **Schoedel 2012** K. A. Schoedel, L. E. Pope, and E. M. Sellers. Randomized Open-Label Drug-Drug Interaction Trial of Dextromethorphan/Quinidine and Paroxetine in Healthy Volunteers. Clinical Drug Investigation, 32(3):157–169, 2012. doi: 10.2165/11599870-000000000-00000.
 

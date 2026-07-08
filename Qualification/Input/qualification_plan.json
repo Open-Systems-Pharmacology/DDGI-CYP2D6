@@ -304,7 +304,7 @@
     "ComparisonTimeProfilePlots": [
       {
         "SectionReference": "quinidine-dextromethorphan-ddi-timeprofile",
-        "Title": "Quinidine-Dextromethorphan-DDI",
+        "Title": "Quinidine - Dextromethorphan DDI",
         "SimulationDuration": 73,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -356,7 +356,7 @@
       },
       {
         "SectionReference": "quinidine-digoxin-ddi-timeprofile",
-        "Title": "Quinidine-Digoxin-DDI",
+        "Title": "Quinidine - Digoxin DDI",
         "SimulationDuration": 272,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -386,7 +386,7 @@
       },
       {
         "SectionReference": "quinidine-digoxin-ddi-timeprofile",
-        "Title": "Quinidine-Digoxin-DDI",
+        "Title": "Quinidine - Digoxin DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -416,7 +416,7 @@
       },
       {
         "SectionReference": "quinidine-mexiletine-ddgi-timeprofile",
-        "Title": "Quinidine-Mexiletine-DDGI",
+        "Title": "Quinidine - Mexiletine DDGI",
         "SimulationDuration": 96,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -446,7 +446,7 @@
       },
       {
         "SectionReference": "quinidine-mexiletine-ddgi-timeprofile",
-        "Title": "Quinidine-Mexiletine-DDGI",
+        "Title": "Quinidine - Mexiletine DDGI",
         "SimulationDuration": 96,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -476,7 +476,7 @@
       },
       {
         "SectionReference": "quinidine-paroxetine-ddi-timeprofile",
-        "Title": "Quinidine-Paroxetine-DDI",
+        "Title": "Quinidine - Paroxetine DDI",
         "SimulationDuration": 480,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -495,7 +495,7 @@
             "Project": "Quinidine-Paroxetine-DDI",
             "Simulation": "Schoedel (2012) - DDI - quinidine-dextromethorphan-paroxetine, 30/30/20 mg, po, n=14 (EM)",
             "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Schoedel (2012) - DDI- quinidine-dextromethorphan-paroxetine, 30/30/20 mg, po, n=14 (EM), paroxetine (DDIl)",
+            "ObservedData": "Schoedel (2012) - DDI - quinidine-dextromethorphan-paroxetine, 30/30/20 mg, po, n=14 (EM), paroxetine (DDI)",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#B7E6A0",
@@ -506,7 +506,7 @@
       },
       {
         "SectionReference": "carbamazepine-quinidine-ddi-timeprofile",
-        "Title": "Carbamazepine-Quinidine-DDI",
+        "Title": "Carbamazepine - Quinidine DDI",
         "SimulationDuration": 408,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -558,7 +558,7 @@
       },
       {
         "SectionReference": "cimetidine-quinidine-ddi-timeprofile",
-        "Title": "Cimetidine-Quinidine-DDI",
+        "Title": "Cimetidine - Quinidine DDI",
         "SimulationDuration": 249,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -588,7 +588,7 @@
       },
       {
         "SectionReference": "cimetidine-quinidine-ddi-timeprofile",
-        "Title": "Cimetidine-Quinidine-DDI",
+        "Title": "Cimetidine - Quinidine DDI",
         "SimulationDuration": 180,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -600,7 +600,7 @@
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#006400",
-            "Caption": "Hardy 1983, QUI (400 mg s.d. po), n = 6",
+            "Caption": "Hardy 1988, QUI (400 mg s.d. po), n = 6",
             "Symbol": "Circle"
           },
           {
@@ -611,14 +611,14 @@
             "StartTime": 168,
             "TimeUnit": "h",
             "Color": "#009933",
-            "Caption": "Hardy 1983, QUI (+ CIM, 300 mg q.i.d. po), n = 6",
+            "Caption": "Hardy 1988, QUI (+ CIM, 300 mg q.i.d. po), n = 6",
             "Symbol": "Circle"
           }
         ]
       },
       {
         "SectionReference": "fluvoxamine-quinidine-ddi-timeprofile",
-        "Title": "Fluvoxamine-Quinidine-DDI",
+        "Title": "Fluvoxamine - Quinidine DDI",
         "SimulationDuration": 144,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -670,7 +670,7 @@
       },
       {
         "SectionReference": "omeprazole-quinidine-ddi-timeprofile",
-        "Title": "Omeprazole-Quinidine-DDI",
+        "Title": "Omeprazole - Quinidine DDI",
         "SimulationDuration": 169,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -722,7 +722,7 @@
       },
       {
         "SectionReference": "rifampicin-quinidine-ddi-timeprofile",
-        "Title": "Rifampicin-Quinidine-DDI",
+        "Title": "Rifampicin - Quinidine DDI",
         "SimulationDuration": 226,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -774,7 +774,7 @@
       },
       {
         "SectionReference": "verapamil-quinidine-ddi-timeprofile",
-        "Title": "Verapamil-Quinidine-DDI",
+        "Title": "Verapamil - Quinidine DDI",
         "SimulationDuration": 84.5,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -804,7 +804,7 @@
       },
       {
         "SectionReference": "verapamil-quinidine-ddi-timeprofile",
-        "Title": "Verapamil-Quinidine-DDI",
+        "Title": "Verapamil - Quinidine DDI",
         "SimulationDuration": 84.5,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -834,7 +834,7 @@
       },
       {
         "SectionReference": "paroxetine-alprazolam-ddi-timeprofile",
-        "Title": "Paroxetine-Alprazolam-DDI",
+        "Title": "Paroxetine - Alprazolam DDI",
         "SimulationDuration": 360,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -842,7 +842,7 @@
             "Project": "Paroxetine-Alprazolam-DDI",
             "Simulation": "Calvo 2004 - Alprazolam po 1 mg qd 15 days",
             "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Calvo 2004 - Aprazolam, po, 1 mg, qd, 15 days",
+            "ObservedData": "Calvo 2004 - Alprazolam, po, 1 mg, qd, 15 days",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#006666",
@@ -853,7 +853,7 @@
             "Project": "Paroxetine-Alprazolam-DDI",
             "Simulation": "Calvo 2004 - DDI - Paroxetine-Alprazolam, 20/1 mg, qd, 15 days",
             "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Calvo 2004 - DDI - Aprazolam, po, 1 mg, qd, 15 days",
+            "ObservedData": "Calvo 2004 - DDI - Alprazolam, po, 1 mg, qd, 15 days",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#66CCCC",
@@ -864,7 +864,7 @@
       },
       {
         "SectionReference": "fluvoxamine-atomoxetine-ddi-timeprofile",
-        "Title": "Fluvoxamine-Atomoxetine-DDI",
+        "Title": "Fluvoxamine - Atomoxetine DDI",
         "SimulationDuration": 144,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -894,7 +894,7 @@
       },
       {
         "SectionReference": "paroxetine-atomoxetine-ddgi-timeprofile",
-        "Title": "Paroxetine-Atomoxetine-DDGI",
+        "Title": "Paroxetine - Atomoxetine DDGI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -924,7 +924,7 @@
       },
       {
         "SectionReference": "paroxetine-atomoxetine-ddgi-timeprofile",
-        "Title": "Paroxetine-Atomoxetine-DDGI",
+        "Title": "Paroxetine - Atomoxetine DDGI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -954,7 +954,7 @@
       },
       {
         "SectionReference": "paroxetine-atomoxetine-ddgi-timeprofile",
-        "Title": "Paroxetine-Atomoxetine-DDGI",
+        "Title": "Paroxetine - Atomoxetine DDGI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -984,7 +984,7 @@
       },
       {
         "SectionReference": "paroxetine-atomoxetine-ddgi-timeprofile",
-        "Title": "Paroxetine-Atomoxetine-DDI",
+        "Title": "Paroxetine - Atomoxetine DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1014,7 +1014,7 @@
       },
       {
         "SectionReference": "paroxetine-atomoxetine-ddgi-timeprofile",
-        "Title": "Paroxetine-Atomoxetine-DDI",
+        "Title": "Paroxetine - Atomoxetine DDI",
         "SimulationDuration": 480,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1044,7 +1044,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1074,7 +1074,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1104,7 +1104,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1134,7 +1134,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1164,7 +1164,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1194,7 +1194,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1224,7 +1224,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1254,7 +1254,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1284,7 +1284,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1314,7 +1314,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1344,7 +1344,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1374,7 +1374,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1404,7 +1404,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1434,7 +1434,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1464,7 +1464,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1494,7 +1494,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1524,7 +1524,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1554,7 +1554,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1584,7 +1584,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1614,7 +1614,7 @@
       },
       {
         "SectionReference": "clarithromycin-clomiphene-ddgi-timeprofile",
-        "Title": "Clarithromycin-Clomiphene-DDGI",
+        "Title": "Clarithromycin - Clomiphene DDGI",
         "SimulationDuration": 264,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1644,7 +1644,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1674,7 +1674,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1704,7 +1704,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1734,7 +1734,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1742,7 +1742,7 @@
             "Project": "Paroxetine-Clomiphene-DDGI",
             "Simulation": "IKP (AS=0) - (E)-clomiphene, 42 mg, po, sd, n=4",
             "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "IKP (AS=0), (E)-4-hydroxy-Ndesethylclomiphene, ID=17004",
+            "ObservedData": "IKP (AS=0), (E)-4-hydroxy-N-desethylclomiphene, ID=17004",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#047250",
@@ -1753,7 +1753,7 @@
             "Project": "Paroxetine-Clomiphene-DDGI",
             "Simulation": "IKP (AS=0) - (E)-clomiphene, 42 mg, po, sd, n=4, DD(G)I paroxetine",
             "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "IKP (AS=0), (E)-4-hydroxy-N-desethylclomiphene, DD(G) paroxetine,  ID=21104",
+            "ObservedData": "IKP (AS=0), (E)-4-hydroxy-N-desethylclomiphene, DD(G)I paroxetine, ID=21104",
             "StartTime": 48,
             "TimeUnit": "h",
             "Color": "#06B680",
@@ -1764,7 +1764,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1794,7 +1794,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1824,7 +1824,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1854,7 +1854,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1873,7 +1873,7 @@
             "Project": "Paroxetine-Clomiphene-DDGI",
             "Simulation": "IKP (AS=0.5) - (E)-clomiphene, 42 mg, po, sd, n=4, DD(G)I paroxetine",
             "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "IKP (AS=0.5), (E)-4-hydroxy-N-desethylclomiphene, DD(G) paroxetine, ID=21103",
+            "ObservedData": "IKP (AS=0.5), (E)-4-hydroxy-N-desethylclomiphene, DD(G)I paroxetine, ID=21103",
             "StartTime": 48,
             "TimeUnit": "h",
             "Color": "#06B680",
@@ -1884,7 +1884,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1914,7 +1914,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1944,7 +1944,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1974,7 +1974,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -1993,7 +1993,7 @@
             "Project": "Paroxetine-Clomiphene-DDGI",
             "Simulation": "IKP (AS=1) - (E)-clomiphene, 42 mg, po, sd, n=2, DD(G)I paroxetine",
             "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "IKP (AS=1), (E)-4-hydroxy-N-desethylclomiphene, DD(G) paroxetine, ID=21101",
+            "ObservedData": "IKP (AS=1), (E)-4-hydroxy-N-desethylclomiphene, DD(G)I paroxetine, ID=21101",
             "StartTime": 48,
             "TimeUnit": "h",
             "Color": "#06B680",
@@ -2004,7 +2004,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2034,7 +2034,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2064,7 +2064,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2094,7 +2094,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2113,7 +2113,7 @@
             "Project": "Paroxetine-Clomiphene-DDGI",
             "Simulation": "IKP (AS=2) - (E)-clomiphene, 42 mg, po, sd, n=3, DD(G)I paroxetine",
             "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "IKP (AS=2), (E)-4-hydroxy-N-desethylclomiphene, DD(G) paroxetine, ID=21102",
+            "ObservedData": "IKP (AS=2), (E)-4-hydroxy-N-desethylclomiphene, DD(G)I paroxetine, ID=21102",
             "StartTime": 48,
             "TimeUnit": "h",
             "Color": "#06B680",
@@ -2124,7 +2124,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2154,7 +2154,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2184,7 +2184,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2214,7 +2214,7 @@
       },
       {
         "SectionReference": "paroxetine-clomiphene-ddgi-timeprofile",
-        "Title": "Paroxetine-Clomiphene-DDGI",
+        "Title": "Paroxetine - Clomiphene DDGI",
         "SimulationDuration": 216,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2233,7 +2233,7 @@
             "Project": "Paroxetine-Clomiphene-DDGI",
             "Simulation": "IKP (AS=3) - (E)-clomiphene, 42 mg, po, sd, n=3, DD(G)I paroxetine",
             "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "IKP (AS=3), (E)-4-hydroxy-N-desethylclomiphene, DD(G) paroxetine, ID=21106",
+            "ObservedData": "IKP (AS=3), (E)-4-hydroxy-N-desethylclomiphene, DD(G)I paroxetine, ID=21106",
             "StartTime": 48,
             "TimeUnit": "h",
             "Color": "#06B680",
@@ -2244,7 +2244,7 @@
       },
       {
         "SectionReference": "atomoxetine-desipramine-ddi-timeprofile",
-        "Title": "Atomoxetine-Desipramine-DDI",
+        "Title": "Atomoxetine - Desipramine DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2274,7 +2274,7 @@
       },
       {
         "SectionReference": "paroxetine-desipramine-ddgi-timeprofile",
-        "Title": "Paroxetine-Desipramine-DDI",
+        "Title": "Paroxetine - Desipramine DDI",
         "SimulationDuration": 215,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2326,7 +2326,7 @@
       },
       {
         "SectionReference": "paroxetine-desipramine-ddgi-timeprofile",
-        "Title": "Paroxetine-Desipramine-DDGI",
+        "Title": "Paroxetine - Desipramine DDGI",
         "SimulationDuration": 480,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2356,7 +2356,7 @@
       },
       {
         "SectionReference": "paroxetine-desipramine-ddgi-timeprofile",
-        "Title": "Paroxetine-Desipramine-DDGI",
+        "Title": "Paroxetine - Desipramine DDGI",
         "SimulationDuration": 480,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2386,7 +2386,7 @@
       },
       {
         "SectionReference": "paroxetine-desipramine-ddgi-timeprofile",
-        "Title": "Paroxetine-Desipramine-DDGI",
+        "Title": "Paroxetine - Desipramine DDGI",
         "SimulationDuration": 480,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2416,7 +2416,7 @@
       },
       {
         "SectionReference": "paroxetine-desipramine-ddgi-timeprofile",
-        "Title": "Paroxetine-Desipramine-DDI",
+        "Title": "Paroxetine - Desipramine DDI",
         "SimulationDuration": 624,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2446,7 +2446,7 @@
       },
       {
         "SectionReference": "quinidine-desipramine-ddi-timeprofile",
-        "Title": "Quinidine-Desipramine-DDI",
+        "Title": "Quinidine - Desipramine DDI",
         "SimulationDuration": 288,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2476,7 +2476,7 @@
       },
       {
         "SectionReference": "paroxetine-dextromethorphan-ddgi-timeprofile",
-        "Title": "Paroxetine-Dextromethorphan-DDGI",
+        "Title": "Paroxetine - Dextromethorphan DDGI",
         "SimulationDuration": 37,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2493,7 +2493,7 @@
           },
           {
             "Project": "Paroxetine-Dextromethorphan-DDGI",
-            "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethoprhan, 20/5 mg, n=16, AS=1",
+            "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethorphan, 20/5 mg, n=16, AS=1",
             "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
             "ObservedData": "Storelli 2018 IM - DDI - Dextromethorphan, po, 5 mg, sd AS=1",
             "StartTime": 12,
@@ -2515,7 +2515,7 @@
           },
           {
             "Project": "Paroxetine-Dextromethorphan-DDGI",
-            "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethoprhan, 20/5 mg, n=16, AS=1",
+            "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethorphan, 20/5 mg, n=16, AS=1",
             "Output": "Organism|PeripheralVenousBlood|Dextrorphan|Plasma (Peripheral Venous Blood)",
             "ObservedData": "Storelli 2018 IM - DDI - Detrorphan, po, 5 mg dextromethrophan base, sd AS=1",
             "StartTime": 12,
@@ -2528,13 +2528,13 @@
       },
       {
         "SectionReference": "paroxetine-dextromethorphan-ddgi-timeprofile",
-        "Title": "Paroxetine-Dextromethorphan-DDGI",
+        "Title": "Paroxetine - Dextromethorphan DDGI",
         "SimulationDuration": 37,
         "TimeUnit": "h",
         "OutputMappings": [
           {
             "Project": "Paroxetine-Dextromethorphan-DDGI",
-            "Simulation": "Storelli 2018 NM - Dextromethoprhan, po, 5 mg, sd, n=17, AS=2",
+            "Simulation": "Storelli 2018 NM - Dextromethorphan, po, 5 mg, sd, n=17, AS=2",
             "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
             "ObservedData": "Storelli 2018 NM - Dextromethorphan, po, 5 mg, sd AS=2",
             "StartTime": 0,
@@ -2556,7 +2556,7 @@
           },
           {
             "Project": "Paroxetine-Dextromethorphan-DDGI",
-            "Simulation": "Storelli 2018 NM - Dextromethoprhan, po, 5 mg, sd, n=17, AS=2",
+            "Simulation": "Storelli 2018 NM - Dextromethorphan, po, 5 mg, sd, n=17, AS=2",
             "Output": "Organism|PeripheralVenousBlood|Dextrorphan|Plasma (Peripheral Venous Blood)",
             "ObservedData": "Storelli 2018 NM - Dextrorphan, po, 5 mg dextromethorphan base, sd AS=2",
             "StartTime": 0,
@@ -2580,7 +2580,7 @@
       },
       {
         "SectionReference": "paroxetine-dextromethorphan-ddgi-timeprofile",
-        "Title": "Paroxetine-Dextromethorphan-DDI",
+        "Title": "Paroxetine - Dextromethorphan DDI",
         "SimulationDuration": 468,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2610,7 +2610,7 @@
       },
       {
         "SectionReference": "cimetidine-metoprolol-ddi-timeprofile",
-        "Title": "Cimetidine-Metoprolol-DDI",
+        "Title": "Cimetidine - Metoprolol DDI",
         "SimulationDuration": 181,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2640,7 +2640,7 @@
       },
       {
         "SectionReference": "cimetidine-metoprolol-ddi-timeprofile",
-        "Title": "Cimetidine-Metoprolol-DDI",
+        "Title": "Cimetidine - Metoprolol DDI",
         "SimulationDuration": 360,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2670,7 +2670,7 @@
       },
       {
         "SectionReference": "cimetidine-metoprolol-ddi-timeprofile",
-        "Title": "Cimetidine-Metoprolol-DDI",
+        "Title": "Cimetidine - Metoprolol DDI",
         "SimulationDuration": 360,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2700,7 +2700,7 @@
       },
       {
         "SectionReference": "cimetidine-metoprolol-ddi-timeprofile",
-        "Title": "Cimetidine-Metoprolol-DDI",
+        "Title": "Cimetidine - Metoprolol DDI",
         "SimulationDuration": 312,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2730,7 +2730,7 @@
       },
       {
         "SectionReference": "paroxetine-metoprolol-ddi-timeprofile",
-        "Title": "Paroxetine-Metoprolol-DDI",
+        "Title": "Paroxetine - Metoprolol DDI",
         "SimulationDuration": 192,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2760,7 +2760,7 @@
       },
       {
         "SectionReference": "paroxetine-metoprolol-ddi-timeprofile",
-        "Title": "Paroxetine-Metoprolol-DDI",
+        "Title": "Paroxetine - Metoprolol DDI",
         "SimulationDuration": 192,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2790,7 +2790,7 @@
       },
       {
         "SectionReference": "paroxetine-metoprolol-ddi-timeprofile",
-        "Title": "Paroxetine-Metoprolol-DDI",
+        "Title": "Paroxetine - Metoprolol DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2842,7 +2842,7 @@
       },
       {
         "SectionReference": "paroxetine-metoprolol-ddi-timeprofile",
-        "Title": "Paroxetine-Metoprolol-DDI",
+        "Title": "Paroxetine - Metoprolol DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2894,7 +2894,7 @@
       },
       {
         "SectionReference": "paroxetine-metoprolol-ddi-timeprofile",
-        "Title": "Paroxetine-Metoprolol-DDI",
+        "Title": "Paroxetine - Metoprolol DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2946,7 +2946,7 @@
       },
       {
         "SectionReference": "paroxetine-metoprolol-ddi-timeprofile",
-        "Title": "Paroxetine-Metoprolol-DDI",
+        "Title": "Paroxetine - Metoprolol DDI",
         "SimulationDuration": 169,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2998,7 +2998,7 @@
       },
       {
         "SectionReference": "quinidine-metoprolol-ddgi-timeprofile",
-        "Title": "Quinidine-Metoprolol-DDGI",
+        "Title": "Quinidine - Metoprolol DDGI",
         "SimulationDuration": 16,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3028,7 +3028,7 @@
       },
       {
         "SectionReference": "quinidine-metoprolol-ddgi-timeprofile",
-        "Title": "Quinidine-Metoprolol-DDGI",
+        "Title": "Quinidine - Metoprolol DDGI",
         "SimulationDuration": 16,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3058,7 +3058,7 @@
       },
       {
         "SectionReference": "quinidine-metoprolol-ddgi-timeprofile",
-        "Title": "Quinidine-Metoprolol-DDGI",
+        "Title": "Quinidine - Metoprolol DDGI",
         "SimulationDuration": 56,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3088,7 +3088,7 @@
       },
       {
         "SectionReference": "quinidine-metoprolol-ddgi-timeprofile",
-        "Title": "Quinidine-Metoprolol-DDGI",
+        "Title": "Quinidine - Metoprolol DDGI",
         "SimulationDuration": 56,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3118,7 +3118,7 @@
       },
       {
         "SectionReference": "quinidine-metoprolol-ddgi-timeprofile",
-        "Title": "Quinidine-Metoprolol-DDI",
+        "Title": "Quinidine - Metoprolol DDI",
         "SimulationDuration": 98,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3170,7 +3170,7 @@
       },
       {
         "SectionReference": "quinidine-metoprolol-ddgi-timeprofile",
-        "Title": "Quinidine-Metoprolol-DDGI",
+        "Title": "Quinidine - Metoprolol DDGI",
         "SimulationDuration": 98,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3222,7 +3222,7 @@
       },
       {
         "SectionReference": "rifampicin-metoprolol-ddi-timeprofile",
-        "Title": "Rifampicin-Metoprolol-DDI",
+        "Title": "Rifampicin - Metoprolol DDI",
         "SimulationDuration": 780,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3252,7 +3252,7 @@
       },
       {
         "SectionReference": "atomoxetine-midazolam-ddi-timeprofile",
-        "Title": "Atomoxetine-Midazolam-DDI",
+        "Title": "Atomoxetine - Midazolam DDI",
         "SimulationDuration": 128,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3282,7 +3282,7 @@
       },
       {
         "SectionReference": "atomoxetine-midazolam-ddi-timeprofile",
-        "Title": "Atomoxetine-Midazolam-DDI",
+        "Title": "Atomoxetine - Midazolam DDI",
         "SimulationDuration": 270,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3312,7 +3312,7 @@
       },
       {
         "SectionReference": "itraconazole-paroxetine-ddi-timeprofile",
-        "Title": "Itraconazole-Paroxetine-DDI",
+        "Title": "Itraconazole - Paroxetine DDI",
         "SimulationDuration": 170,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3342,7 +3342,7 @@
       },
       {
         "SectionReference": "erythromycin-quinidine-ddi-timeprofile",
-        "Title": "Erythromycin-Quinidine-DDI",
+        "Title": "Erythromycin - Quinidine DDI",
         "SimulationDuration": 300,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3370,7 +3370,7 @@
       },
       {
         "SectionReference": "itraconazole-quinidine-ddi-timeprofile",
-        "Title": "Itraconazole-Quinidine-DDI",
+        "Title": "Itraconazole - Quinidine DDI",
         "SimulationDuration": 97,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3400,7 +3400,7 @@
       },
       {
         "SectionReference": "itraconazole-quinidine-ddi-timeprofile",
-        "Title": "Itraconazole-Quinidine-DDI",
+        "Title": "Itraconazole - Quinidine DDI",
         "SimulationDuration": 300,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3428,7 +3428,7 @@
       },
       {
         "SectionReference": "ketoconazole-risperidone-ddi-timeprofile",
-        "Title": "Ketoconazole-Risperidone-DDI",
+        "Title": "Ketoconazole - Risperidone DDI",
         "SimulationDuration": 96,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3480,7 +3480,7 @@
       },
       {
         "SectionReference": "rifampicin-risperidone-ddi-timeprofile",
-        "Title": "Rifampicin-Risperidone-DDI",
+        "Title": "Rifampicin - Risperidone DDI",
         "SimulationDuration": 139,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3532,7 +3532,7 @@
       },
       {
         "SectionReference": "rifampicin-risperidone-ddi-timeprofile",
-        "Title": "Rifampicin-Risperidone-DDI",
+        "Title": "Rifampicin - Risperidone DDI",
         "SimulationDuration": 168,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3562,7 +3562,7 @@
       },
       {
         "SectionReference": "verapamil-risperidone-ddi-timeprofile",
-        "Title": "Verapamil-Risperidone-DDI",
+        "Title": "Verapamil - Risperidone DDI",
         "SimulationDuration": 145,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3615,7 +3615,7 @@
     ],
     "DDIRatioPlots": [
       {
-        "SectionReference": "qualification-of-use-case-cyp2d6-mediated-ddis",
+        "SectionReference": "ddi-evaluations",
         "Title": "CYP2D6 DDIs",
         "PKParameter": "AUC|CMAX",
         "PlotType": "predictedVsObserved|residualsVsObserved",
@@ -3725,58 +3725,6 @@
                   "Simulation": "Ochs (1981) - DDI - quinidine-digoxin, po/iv infusion, 200/1 mg, n=7",
                   "StartTime": 96,
                   "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Quinidine-Mexiletine-DDI",
-            "Color": "#A6EAC5",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 16950,
-                "SimulationControl": {
-                  "Project": "Quinidine-Mexiletine-DDGI",
-                  "Simulation": "Abolfathi (1993) - mexiletine hydrochloride, 200 mg, po, n=4 (PM)",
-                  "StartTime": 0,
-                  "EndTime": 48,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Quinidine-Mexiletine-DDGI",
-                  "Simulation": "Abolfathi (1993) - DDI - quinidine-mexiletine, 50/200 mg, po, n=4 (PM)",
-                  "StartTime": 48,
-                  "EndTime": 96,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Quinidine-Mexiletine-DDI",
-            "Color": "#A6EAC5",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 16952,
-                "SimulationControl": {
-                  "Project": "Quinidine-Mexiletine-DDGI",
-                  "Simulation": "Abolfathi (1993) - mexiletine hydrochloride, 200 mg, po, n=10 (EM)",
-                  "StartTime": 0,
-                  "EndTime": 48,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Quinidine-Mexiletine-DDGI",
-                  "Simulation": "Abolfathi (1993) - DDI - quinidine-mexiletine, 50/200 mg, po, n=10 (EM)",
-                  "StartTime": 48,
-                  "EndTime": 96,
                   "TimeUnit": "h"
                 }
               }
@@ -4167,6 +4115,852 @@
                   "Simulation": "Todor 2017 - DDI - Fluvoxamine-Atomoxetine - po, 25 mg, sd, day 6 n=18",
                   "StartTime": 120,
                   "EndTime": 144,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Atomoxetine-Desipramine-DDI",
+            "Color": "#A4A3E6",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17078,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-Desipramine-DDI",
+                  "Simulation": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-Desipramine-DDI",
+                  "Simulation": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water",
+                  "StartTime": 72,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Quinidine-Desipramine-DDI",
+            "Color": "#A4A3E6",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17096,
+                "SimulationControl": {
+                  "Project": "Quinidine-Desipramine-DDI",
+                  "Simulation": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Quinidine-Desipramine-DDI",
+                  "Simulation": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
+                  "StartTime": 60,
+                  "EndTime": 288,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Cimetidine-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17108,
+                "SimulationControl": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Chellingsworth 1988 - Metoprolol, po, 100 mg, sd, n=12 CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 12,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Chellingsworth 1988 - DDI - Cimetidine/Metoprolol, 800/100 mg, qd/sd, n=12 CYP3A4 (no water)",
+                  "StartTime": 169,
+                  "EndTime": 181,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Cimetidine-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17110,
+                "SimulationControl": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Chellingsworth 1988 - Metoprolol, po, 100 mg, bid, n=12 CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 360,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Chellingsworth 1988 - DDI - Cimetidine/Metoprolol, 800/100 mg, qd/bid, n=12 CYP3A4 (no water)",
+                  "StartTime": 0,
+                  "EndTime": 360,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Cimetidine-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17112,
+                "SimulationControl": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Toon 1988 - Metoprolol, po, 100 mg, bid CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 360,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Toon 1988 - DDI - Cimetidine/Metoprolol, 800/100 mg, qd/bid CYP3A4 (no water)",
+                  "StartTime": 0,
+                  "EndTime": 360,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Cimetidine-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17114,
+                "SimulationControl": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Kirch 1982 - Metoprolol, po, 100 mg, bid CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 312,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Cimetidine-Metoprolol-DDI",
+                  "Simulation": "Kirch 1982 - DDI - Cimetidine/Metoprolol, 200/100 mg, qid/bid CYP3A4 (no water)",
+                  "StartTime": 0,
+                  "EndTime": 312,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17116,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Stout 2011 - Metoprolol, po, 50 mg, sd CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 12,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Stout 2011 - DDI - Paroxetine/Metoprolol, 10/50 mg CYP3A4",
+                  "StartTime": 168,
+                  "EndTime": 192,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17118,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Stout 2011 - Metoprolol, po, 100 mg, sd CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 12,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Stout 2011 - DDI - Paroxetine/Metoprolol, 10/100 mg CYP3A4",
+                  "StartTime": 168,
+                  "EndTime": 192,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#9f79ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17120,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, sd (ER) CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, qd/sd (ER) CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#1c86ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17122,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, sd (ER) CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, qd/sd (ER) CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#9f79ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17124,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, bid (IR) CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, bid/qd (IR) CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#1c86ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17126,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, bid (IR) CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, bid/qd (IR) CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#9f79ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17128,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - Metoprolol, po, 200 mg, sd (ER) CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/200 mg, qd/sd (ER) CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#1c86ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17130,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - Metoprolol, po, 200 mg, sd (ER) CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/200 mg, qd/sd (ER) CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#9f79ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17132,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Hemeryck 2000 - Metoprolol, po, 100 mg, sd CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Hemeryck 2000 - DDI - Paroxetine-Metoprolol, 10/100 mg, bid/sd CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 169,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine-Metoprolol-DDI",
+            "Color": "#1c86ee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17134,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Hemeryck 2000 - Metoprolol, po, 100 mg, sd CYP3A4",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Metoprolol-DDI",
+                  "Simulation": "Hemeryck 2000 - DDI - Paroxetine-Metoprolol, 10/100 mg, bid/sd CYP3A4",
+                  "StartTime": 144,
+                  "EndTime": 169,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifampicin-Metoprolol-DDI",
+            "Color": "#5cacee",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17152,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Metoprolol-DDI",
+                  "Simulation": "Bennett 1982 - Metoprolol, po, 100 mg, sd CYP3A4",
+                  "StartTime": 48,
+                  "EndTime": 780,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Metoprolol-DDI",
+                  "Simulation": "Bennett 1982 - DDI - Rifampicin/Metoprolol, 600/100 mg, qd CYP3A4",
+                  "StartTime": 48,
+                  "EndTime": 780,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Atomoxetine-Midazolam-DDI",
+            "Color": "#666666",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17154,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-Midazolam-DDI",
+                  "Simulation": "Sauer 2004 - Midazolam, po, 5 mg, qd, n=8",
+                  "StartTime": 0,
+                  "EndTime": 6,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-Midazolam-DDI",
+                  "Simulation": "Sauer 2004 - Atomoxetine/Midazolam, po, 60/5 mg, bid/sd, n=8",
+                  "StartTime": 120.5,
+                  "EndTime": 128,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Atomoxetine-Midazolam-DDI",
+            "Color": "#666666",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17156,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-Midazolam-DDI",
+                  "Simulation": "Sauer 2004 - Midazolam, po, 5 mg, qd, n=8",
+                  "StartTime": 0,
+                  "EndTime": 6,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-Midazolam-DDI",
+                  "Simulation": "Sauer 2004 - Atomoxetine/Midazolam, po, 60/5 mg, bid/sd, n=8",
+                  "StartTime": 264.5,
+                  "EndTime": 270,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Itraconazole-Paroxetine-DDI",
+            "Color": "#B7E6A0",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17158,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Paroxetine-DDI",
+                  "Simulation": "Yasui-Furukori 2007 - Paroxetine, po, 20 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 36,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Paroxetine-DDI",
+                  "Simulation": "Yasui-Furukori 2007 - DDI - Itraconazole-Paroxetine, 100/20 mg",
+                  "StartTime": 121,
+                  "EndTime": 170,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Erythromycin-Quinidine-DDI",
+            "Color": "#009933",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17160,
+                "SimulationControl": {
+                  "Project": "Erythromycin-Quinidine-DDI",
+                  "Simulation": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Ery)",
+                  "StartTime": 0,
+                  "EndTime": 300,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Erythromycin-Quinidine-DDI",
+                  "Simulation": "Damkier (1999) - DDI - erythromycin-quinidine, 250/200 mg, po, n=6",
+                  "StartTime": 0,
+                  "EndTime": 300,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Itraconazole-Quinidine-DDI",
+            "Color": "#009933",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17162,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Quinidine-DDI",
+                  "Simulation": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Quinidine-DDI",
+                  "Simulation": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9",
+                  "StartTime": 73,
+                  "EndTime": 97,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Itraconazole-Quinidine-DDI",
+            "Color": "#009933",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17164,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Quinidine-DDI",
+                  "Simulation": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)",
+                  "StartTime": 0,
+                  "EndTime": 300,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Quinidine-DDI",
+                  "Simulation": "Damkier (1999) - DDI - itraconazole-quinidine, 100/200 mg, po, n=6",
+                  "StartTime": 0,
+                  "EndTime": 300,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Ketoconazole-Risperidone-DDI",
+            "Color": "#AA3871",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17166,
+                "SimulationControl": {
+                  "Project": "Ketoconazole-Risperidone-DDI",
+                  "Simulation": "Mahatthanatrakul 2012 - Risperidone, po, 2 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Ketoconazole-Risperidone-DDI",
+                  "Simulation": "Mahatthanatrakul 2012 - DDI - Ketoconazole/Risperidone, 200/2 mg",
+                  "StartTime": 48,
+                  "EndTime": 96,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Ketoconazole-Risperidone-DDI",
+            "Color": "#FF99CC",
+            "Symbol": "Triangle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17168,
+                "SimulationControl": {
+                  "Project": "Ketoconazole-Risperidone-DDI",
+                  "Simulation": "Mahatthanatrakul 2012 - Risperidone, po, 2 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 96,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Ketoconazole-Risperidone-DDI",
+                  "Simulation": "Mahatthanatrakul 2012 - DDI - Ketoconazole/Risperidone, 200/2 mg",
+                  "StartTime": 48,
+                  "EndTime": 144,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifampicin-Risperidone-DDI",
+            "Color": "#AA3871",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17170,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Risperidone-DDI",
+                  "Simulation": "Kim 2018 - Risperidone, po, 1 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 30,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Risperidone-DDI",
+                  "Simulation": "Kim 2018 - DDI - Rifampicin/Risperidone, po, 600/1 mg",
+                  "StartTime": 109,
+                  "EndTime": 139,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifampicin-Risperidone-DDI",
+            "Color": "#FF99CC",
+            "Symbol": "Triangle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17172,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Risperidone-DDI",
+                  "Simulation": "Kim 2018 - Risperidone, po, 1 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 30,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Risperidone-DDI",
+                  "Simulation": "Kim 2018 - DDI - Rifampicin/Risperidone, po, 600/1 mg",
+                  "StartTime": 109,
+                  "EndTime": 139,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifampicin-Risperidone-DDI",
+            "Color": "#AA3871",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17174,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Risperidone-DDI",
+                  "Simulation": "Mahatthanatrakul 2007 - Risperidone, po, 4 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Risperidone-DDI",
+                  "Simulation": "Mahatthanatrakul 2007 - DDI - Rifampicin/Risperidone, po, 600/4 mg",
+                  "StartTime": 120,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Verapamil-Risperidone-DDI",
+            "Color": "#AA3871",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17176,
+                "SimulationControl": {
+                  "Project": "Verapamil-Risperidone-DDI",
+                  "Simulation": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Verapamil-Risperidone-DDI",
+                  "Simulation": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg",
+                  "StartTime": 121,
+                  "EndTime": 145,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Verapamil-Risperidone-DDI",
+            "Color": "#FF99CC",
+            "Symbol": "Triangle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 17178,
+                "SimulationControl": {
+                  "Project": "Verapamil-Risperidone-DDI",
+                  "Simulation": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
+                  "StartTime": 0,
+                  "EndTime": 24,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Verapamil-Risperidone-DDI",
+                  "Simulation": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg",
+                  "StartTime": 121,
+                  "EndTime": 145,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "SectionReference": "ddgi-evaluations",
+        "Title": "CYP2D6 DDGIs",
+        "PKParameter": "AUC|CMAX",
+        "PlotType": "predictedVsObserved|residualsVsObserved",
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure",
+          "Table"
+        ],
+        "Groups": [
+          {
+            "Caption": "Quinidine-Mexiletine-DDI",
+            "Color": "#A6EAC5",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 16950,
+                "SimulationControl": {
+                  "Project": "Quinidine-Mexiletine-DDGI",
+                  "Simulation": "Abolfathi (1993) - mexiletine hydrochloride, 200 mg, po, n=4 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Quinidine-Mexiletine-DDGI",
+                  "Simulation": "Abolfathi (1993) - DDI - quinidine-mexiletine, 50/200 mg, po, n=4 (PM)",
+                  "StartTime": 48,
+                  "EndTime": 96,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Quinidine-Mexiletine-DDI",
+            "Color": "#A6EAC5",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 16952,
+                "SimulationControl": {
+                  "Project": "Quinidine-Mexiletine-DDGI",
+                  "Simulation": "Abolfathi (1993) - mexiletine hydrochloride, 200 mg, po, n=10 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Quinidine-Mexiletine-DDGI",
+                  "Simulation": "Abolfathi (1993) - DDI - quinidine-mexiletine, 50/200 mg, po, n=10 (EM)",
+                  "StartTime": 48,
+                  "EndTime": 96,
                   "TimeUnit": "h"
                 }
               }
@@ -5343,32 +6137,6 @@
             ]
           },
           {
-            "Caption": "Atomoxetine-Desipramine-DDI",
-            "Color": "#A4A3E6",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17078,
-                "SimulationControl": {
-                  "Project": "Atomoxetine-Desipramine-DDI",
-                  "Simulation": "Sauer (2004) - desipramine hydrochloride, po, 50 mg, n=22 (EM)",
-                  "StartTime": 0,
-                  "EndTime": 72,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Atomoxetine-Desipramine-DDI",
-                  "Simulation": "Sauer (2004) - DDI - atomoxetine-desipramine, po, 40-60/50 mg, n=22 (EM) no water",
-                  "StartTime": 72,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
             "Caption": "Paroxetine-Desipramine-DDI",
             "Color": "#A4A3E6",
             "Symbol": "Circle",
@@ -5577,32 +6345,6 @@
             ]
           },
           {
-            "Caption": "Quinidine-Desipramine-DDI",
-            "Color": "#A4A3E6",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17096,
-                "SimulationControl": {
-                  "Project": "Quinidine-Desipramine-DDI",
-                  "Simulation": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
-                  "StartTime": 0,
-                  "EndTime": 72,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Quinidine-Desipramine-DDI",
-                  "Simulation": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
-                  "StartTime": 60,
-                  "EndTime": 288,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
             "Caption": "Paroxetine-Dextromethorphan-DDGI",
             "Color": "#cd8162",
             "Symbol": "Circle",
@@ -5620,7 +6362,7 @@
                 },
                 "SimulationDDI": {
                   "Project": "Paroxetine-Dextromethorphan-DDGI",
-                  "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethoprhan, 20/5 mg, n=16, AS=1",
+                  "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethorphan, 20/5 mg, n=16, AS=1",
                   "StartTime": 12,
                   "EndTime": 37,
                   "TimeUnit": "h"
@@ -5646,7 +6388,7 @@
                 },
                 "SimulationDDI": {
                   "Project": "Paroxetine-Dextromethorphan-DDGI",
-                  "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethoprhan, 20/5 mg, n=16, AS=1",
+                  "Simulation": "Storelli 2018 IM - DDI - Paroxetine-Dextromethorphan, 20/5 mg, n=16, AS=1",
                   "StartTime": 12,
                   "EndTime": 37,
                   "TimeUnit": "h"
@@ -5665,7 +6407,7 @@
                 "ObservedDataRecordId": 17102,
                 "SimulationControl": {
                   "Project": "Paroxetine-Dextromethorphan-DDGI",
-                  "Simulation": "Storelli 2018 NM - Dextromethoprhan, po, 5 mg, sd, n=17, AS=2",
+                  "Simulation": "Storelli 2018 NM - Dextromethorphan, po, 5 mg, sd, n=17, AS=2",
                   "StartTime": 0,
                   "EndTime": 24,
                   "TimeUnit": "h"
@@ -5691,7 +6433,7 @@
                 "ObservedDataRecordId": 17104,
                 "SimulationControl": {
                   "Project": "Paroxetine-Dextromethorphan-DDGI",
-                  "Simulation": "Storelli 2018 NM - Dextromethoprhan, po, 5 mg, sd, n=17, AS=2",
+                  "Simulation": "Storelli 2018 NM - Dextromethorphan, po, 5 mg, sd, n=17, AS=2",
                   "StartTime": 0,
                   "EndTime": 24,
                   "TimeUnit": "h"
@@ -5727,370 +6469,6 @@
                   "Simulation": "Schoedel",
                   "StartTime": 0,
                   "EndTime": 468,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Cimetidine-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17108,
-                "SimulationControl": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Chellingsworth 1988 - Metoprolol, po, 100 mg, sd, n=12 CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 12,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Chellingsworth 1988 - DDI - Cimetidine/Metoprolol, 800/100 mg, qd/sd, n=12 CYP3A4 (no water)",
-                  "StartTime": 169,
-                  "EndTime": 181,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Cimetidine-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17110,
-                "SimulationControl": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Chellingsworth 1988 - Metoprolol, po, 100 mg, bid, n=12 CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 360,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Chellingsworth 1988 - DDI - Cimetidine/Metoprolol, 800/100 mg, qd/bid, n=12 CYP3A4 (no water)",
-                  "StartTime": 0,
-                  "EndTime": 360,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Cimetidine-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17112,
-                "SimulationControl": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Toon 1988 - Metoprolol, po, 100 mg, bid CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 360,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Toon 1988 - DDI - Cimetidine/Metoprolol, 800/100 mg, qd/bid CYP3A4 (no water)",
-                  "StartTime": 0,
-                  "EndTime": 360,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Cimetidine-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17114,
-                "SimulationControl": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Kirch 1982 - Metoprolol, po, 100 mg, bid CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 312,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Cimetidine-Metoprolol-DDI",
-                  "Simulation": "Kirch 1982 - DDI - Cimetidine/Metoprolol, 200/100 mg, qid/bid CYP3A4 (no water)",
-                  "StartTime": 0,
-                  "EndTime": 312,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17116,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Stout 2011 - Metoprolol, po, 50 mg, sd CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 12,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Stout 2011 - DDI - Paroxetine/Metoprolol, 10/50 mg CYP3A4",
-                  "StartTime": 168,
-                  "EndTime": 192,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17118,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Stout 2011 - Metoprolol, po, 100 mg, sd CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 12,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Stout 2011 - DDI - Paroxetine/Metoprolol, 10/100 mg CYP3A4",
-                  "StartTime": 168,
-                  "EndTime": 192,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#9f79ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17120,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, sd (ER) CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, qd/sd (ER) CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#1c86ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17122,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, sd (ER) CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, qd/sd (ER) CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#9f79ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17124,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, bid (IR) CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, bid/qd (IR) CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#1c86ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17126,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - Metoprolol, po, 100 mg, bid (IR) CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/100 mg, bid/qd (IR) CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#9f79ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17128,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - Metoprolol, po, 200 mg, sd (ER) CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/200 mg, qd/sd (ER) CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#1c86ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17130,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - Metoprolol, po, 200 mg, sd (ER) CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Parker 2011 - DDI - Paroxetine/Metoprolol, 20/200 mg, qd/sd (ER) CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#9f79ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17132,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Hemeryck 2000 - Metoprolol, po, 100 mg, sd CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Hemeryck 2000 - DDI - Paroxetine-Metoprolol, 10/100 mg, bid/sd CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 169,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine-Metoprolol-DDI",
-            "Color": "#1c86ee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17134,
-                "SimulationControl": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Hemeryck 2000 - Metoprolol, po, 100 mg, sd CYP3A4",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Paroxetine-Metoprolol-DDI",
-                  "Simulation": "Hemeryck 2000 - DDI - Paroxetine-Metoprolol, 10/100 mg, bid/sd CYP3A4",
-                  "StartTime": 144,
-                  "EndTime": 169,
                   "TimeUnit": "h"
                 }
               }
@@ -6303,370 +6681,6 @@
                 }
               }
             ]
-          },
-          {
-            "Caption": "Rifampicin-Metoprolol-DDI",
-            "Color": "#5cacee",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17152,
-                "SimulationControl": {
-                  "Project": "Rifampicin-Metoprolol-DDI",
-                  "Simulation": "Bennett 1982 - Metoprolol, po, 100 mg, sd CYP3A4",
-                  "StartTime": 48,
-                  "EndTime": 780,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Rifampicin-Metoprolol-DDI",
-                  "Simulation": "Bennett 1982 - DDI - Rifampicin/Metoprolol, 600/100 mg, qd CYP3A4",
-                  "StartTime": 48,
-                  "EndTime": 780,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Atomoxetine-Midazolam-DDI",
-            "Color": "#666666",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17154,
-                "SimulationControl": {
-                  "Project": "Atomoxetine-Midazolam-DDI",
-                  "Simulation": "Sauer 2004 - Midazolam, po, 5 mg, qd, n=8",
-                  "StartTime": 0,
-                  "EndTime": 6,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Atomoxetine-Midazolam-DDI",
-                  "Simulation": "Sauer 2004 - Atomoxetine/Midazolam, po, 60/5 mg, bid/sd, n=8",
-                  "StartTime": 120.5,
-                  "EndTime": 128,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Atomoxetine-Midazolam-DDI",
-            "Color": "#666666",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17156,
-                "SimulationControl": {
-                  "Project": "Atomoxetine-Midazolam-DDI",
-                  "Simulation": "Sauer 2004 - Midazolam, po, 5 mg, qd, n=8",
-                  "StartTime": 0,
-                  "EndTime": 6,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Atomoxetine-Midazolam-DDI",
-                  "Simulation": "Sauer 2004 - Atomoxetine/Midazolam, po, 60/5 mg, bid/sd, n=8",
-                  "StartTime": 264.5,
-                  "EndTime": 270,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Itraconazole-Paroxetine-DDI",
-            "Color": "#B7E6A0",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17158,
-                "SimulationControl": {
-                  "Project": "Itraconazole-Paroxetine-DDI",
-                  "Simulation": "Yasui-Furukori 2007 - Paroxetine, po, 20 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 36,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Itraconazole-Paroxetine-DDI",
-                  "Simulation": "Yasui-Furukori 2007 - DDI - Itraconazole-Paroxetine, 100/20 mg",
-                  "StartTime": 121,
-                  "EndTime": 170,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Erythromycin-Quinidine-DDI",
-            "Color": "#009933",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17160,
-                "SimulationControl": {
-                  "Project": "Erythromycin-Quinidine-DDI",
-                  "Simulation": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Ery)",
-                  "StartTime": 0,
-                  "EndTime": 300,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Erythromycin-Quinidine-DDI",
-                  "Simulation": "Damkier (1999) - DDI - erythromycin-quinidine, 250/200 mg, po, n=6",
-                  "StartTime": 0,
-                  "EndTime": 300,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Itraconazole-Quinidine-DDI",
-            "Color": "#009933",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17162,
-                "SimulationControl": {
-                  "Project": "Itraconazole-Quinidine-DDI",
-                  "Simulation": "Kaukonen (1997) - quinidine sulfate, 100 mg, po, n=9",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Itraconazole-Quinidine-DDI",
-                  "Simulation": "Kaukonen (1997) - DDI - itraconazole-quinidine, 200/100 mg, po, n=9",
-                  "StartTime": 73,
-                  "EndTime": 97,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Itraconazole-Quinidine-DDI",
-            "Color": "#009933",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Quinidine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17164,
-                "SimulationControl": {
-                  "Project": "Itraconazole-Quinidine-DDI",
-                  "Simulation": "Damkier (1999) - quinidine sulfate, 200 mg, po, n=6 (DDI Itra)",
-                  "StartTime": 0,
-                  "EndTime": 300,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Itraconazole-Quinidine-DDI",
-                  "Simulation": "Damkier (1999) - DDI - itraconazole-quinidine, 100/200 mg, po, n=6",
-                  "StartTime": 0,
-                  "EndTime": 300,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Ketoconazole-Risperidone-DDI",
-            "Color": "#AA3871",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17166,
-                "SimulationControl": {
-                  "Project": "Ketoconazole-Risperidone-DDI",
-                  "Simulation": "Mahatthanatrakul 2012 - Risperidone, po, 2 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Ketoconazole-Risperidone-DDI",
-                  "Simulation": "Mahatthanatrakul 2012 - DDI - Ketoconazole/Risperidone, 200/2 mg",
-                  "StartTime": 48,
-                  "EndTime": 96,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Ketoconazole-Risperidone-DDI",
-            "Color": "#FF99CC",
-            "Symbol": "Triangle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17168,
-                "SimulationControl": {
-                  "Project": "Ketoconazole-Risperidone-DDI",
-                  "Simulation": "Mahatthanatrakul 2012 - Risperidone, po, 2 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 96,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Ketoconazole-Risperidone-DDI",
-                  "Simulation": "Mahatthanatrakul 2012 - DDI - Ketoconazole/Risperidone, 200/2 mg",
-                  "StartTime": 48,
-                  "EndTime": 144,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Rifampicin-Risperidone-DDI",
-            "Color": "#AA3871",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17170,
-                "SimulationControl": {
-                  "Project": "Rifampicin-Risperidone-DDI",
-                  "Simulation": "Kim 2018 - Risperidone, po, 1 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 30,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Rifampicin-Risperidone-DDI",
-                  "Simulation": "Kim 2018 - DDI - Rifampicin/Risperidone, po, 600/1 mg",
-                  "StartTime": 109,
-                  "EndTime": 139,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Rifampicin-Risperidone-DDI",
-            "Color": "#FF99CC",
-            "Symbol": "Triangle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17172,
-                "SimulationControl": {
-                  "Project": "Rifampicin-Risperidone-DDI",
-                  "Simulation": "Kim 2018 - Risperidone, po, 1 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 30,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Rifampicin-Risperidone-DDI",
-                  "Simulation": "Kim 2018 - DDI - Rifampicin/Risperidone, po, 600/1 mg",
-                  "StartTime": 109,
-                  "EndTime": 139,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Rifampicin-Risperidone-DDI",
-            "Color": "#AA3871",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17174,
-                "SimulationControl": {
-                  "Project": "Rifampicin-Risperidone-DDI",
-                  "Simulation": "Mahatthanatrakul 2007 - Risperidone, po, 4 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 48,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Rifampicin-Risperidone-DDI",
-                  "Simulation": "Mahatthanatrakul 2007 - DDI - Rifampicin/Risperidone, po, 600/4 mg",
-                  "StartTime": 120,
-                  "EndTime": 168,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Verapamil-Risperidone-DDI",
-            "Color": "#AA3871",
-            "Symbol": "Circle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17176,
-                "SimulationControl": {
-                  "Project": "Verapamil-Risperidone-DDI",
-                  "Simulation": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Verapamil-Risperidone-DDI",
-                  "Simulation": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg",
-                  "StartTime": 121,
-                  "EndTime": 145,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
-          {
-            "Caption": "Verapamil-Risperidone-DDI",
-            "Color": "#FF99CC",
-            "Symbol": "Triangle",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 17178,
-                "SimulationControl": {
-                  "Project": "Verapamil-Risperidone-DDI",
-                  "Simulation": "Nakagami 2005 - Risperidone, po, 1 mg, sd",
-                  "StartTime": 0,
-                  "EndTime": 24,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Verapamil-Risperidone-DDI",
-                  "Simulation": "Nakagami 2005 - DDI - Verapamil/Risperidone, po, 80/1 mg",
-                  "StartTime": 121,
-                  "EndTime": 145,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
           }
         ]
       }
@@ -6682,297 +6696,326 @@
           "Reference": "objective",
           "Title": "Objective",
           "Content": "Content/Qualification_objective.md"
-        },
+        }
+      ]
+    },
+    {
+      "Reference": "ddi-evaluations",
+      "Title": "DDI Evaluations",
+      "Content": "Content/Intro_evaluation_DDI_network.md",
+      "Sections": [
         {
-          "Reference": "cyp2d6-ddgi-network",
-          "Title": "CYP2D6 DDGI Network",
+          "Reference": "ddi-network-evaluations",
+          "Title": "DDI Network Evaluations",
           "Content": "Content/Qualification_DDI_network_description.md",
           "Sections": [
             {
               "Reference": "paroxetine-alprazolam-ddi",
-              "Title": "Paroxetine-Alprazolam-DDI",
+              "Title": "Paroxetine - Alprazolam DDI",
               "Content": "Content/Paroxetine-Alprazolam-DDI.md"
             },
             {
               "Reference": "fluvoxamine-atomoxetine-ddi",
-              "Title": "Fluvoxamine-Atomoxetine-DDI",
+              "Title": "Fluvoxamine - Atomoxetine DDI",
               "Content": "Content/Fluvoxamine-Atomoxetine-DDI.md"
             },
             {
-              "Reference": "paroxetine-atomoxetine-ddgi",
-              "Title": "Paroxetine-Atomoxetine-DDGI",
-              "Content": "Content/Paroxetine-Atomoxetine-DDGI.md"
-            },
-            {
-              "Reference": "clarithromycin-clomiphene-ddgi",
-              "Title": "Clarithromycin-Clomiphene-DDGI",
-              "Content": "Content/Clarithromycin-Clomiphene-DDGI.md"
-            },
-            {
-              "Reference": "paroxetine-clomiphene-ddgi",
-              "Title": "Paroxetine-Clomiphene-DDGI",
-              "Content": "Content/Paroxetine-Clomiphene-DDGI.md"
-            },
-            {
               "Reference": "atomoxetine-desipramine-ddi",
-              "Title": "Atomoxetine-Desipramine-DDI",
+              "Title": "Atomoxetine - Desipramine DDI",
               "Content": "Content/Atomoxetine-Desipramine-DDI.md"
             },
             {
-              "Reference": "paroxetine-desipramine-ddgi",
-              "Title": "Paroxetine-Desipramine-DDGI",
-              "Content": "Content/Paroxetine-Desipramine-DDGI.md"
-            },
-            {
               "Reference": "quinidine-desipramine-ddi",
-              "Title": "Quinidine-Desipramine-DDI",
+              "Title": "Quinidine - Desipramine DDI",
               "Content": "Content/Quinidine-Desipramine-DDI.md"
             },
             {
-              "Reference": "paroxetine-dextromethorphan-ddgi",
-              "Title": "Paroxetine-Dextromethorphan-DDGI",
-              "Content": "Content/Paroxetine-Dextromethorphan-DDGI.md"
-            },
-            {
               "Reference": "quinidine-dextromethorphan-ddi",
-              "Title": "Quinidine-Dextromethorphan-DDI",
+              "Title": "Quinidine - Dextromethorphan DDI",
               "Content": "Content/Quinidine-Dextromethorphan-DDI.md"
             },
             {
               "Reference": "quinidine-digoxin-ddi",
-              "Title": "Quinidine-Digoxin-DDI",
+              "Title": "Quinidine - Digoxin DDI",
               "Content": "Content/Quinidine-Digoxin-DDI.md"
             },
             {
               "Reference": "cimetidine-metoprolol-ddi",
-              "Title": "Cimetidine-Metoprolol-DDI",
+              "Title": "Cimetidine - Metoprolol DDI",
               "Content": "Content/Cimetidine-Metoprolol-DDI.md"
             },
             {
               "Reference": "paroxetine-metoprolol-ddi",
-              "Title": "Paroxetine-Metoprolol-DDI",
+              "Title": "Paroxetine - Metoprolol DDI",
               "Content": "Content/Paroxetine-Metoprolol-DDI.md"
             },
             {
-              "Reference": "quinidine-metoprolol-ddgi",
-              "Title": "Quinidine-Metoprolol-DDGI",
-              "Content": "Content/Quinidine-Metoprolol-DDGI.md"
-            },
-            {
               "Reference": "rifampicin-metoprolol-ddi",
-              "Title": "Rifampicin-Metoprolol-DDI",
+              "Title": "Rifampicin - Metoprolol DDI",
               "Content": "Content/Rifampicin-Metoprolol-DDI.md"
             },
             {
-              "Reference": "quinidine-mexiletine-ddgi",
-              "Title": "Quinidine-Mexiletine-DDGI",
-              "Content": "Content/Quinidine-Mexiletine-DDGI.md"
-            },
-            {
               "Reference": "atomoxetine-midazolam-ddi",
-              "Title": "Atomoxetine-Midazolam-DDI",
+              "Title": "Atomoxetine - Midazolam DDI",
               "Content": "Content/Atomoxetine-Midazolam-DDI.md"
             },
             {
               "Reference": "itraconazole-paroxetine-ddi",
-              "Title": "Itraconazole-Paroxetine-DDI",
+              "Title": "Itraconazole - Paroxetine DDI",
               "Content": "Content/Itraconazole-Paroxetine-DDI.md"
             },
             {
               "Reference": "quinidine-paroxetine-ddi",
-              "Title": "Quinidine-Paroxetine-DDI",
+              "Title": "Quinidine - Paroxetine DDI",
               "Content": "Content/Quinidine-Paroxetine-DDI.md"
             },
             {
               "Reference": "carbamazepine-quinidine-ddi",
-              "Title": "Carbamazepine-Quinidine-DDI",
+              "Title": "Carbamazepine - Quinidine DDI",
               "Content": "Content/Carbamazepine-Quinidine-DDI.md"
             },
             {
               "Reference": "cimetidine-quinidine-ddi",
-              "Title": "Cimetidine-Quinidine-DDI",
+              "Title": "Cimetidine - Quinidine DDI",
               "Content": "Content/Cimetidine-Quinidine-DDI.md"
             },
             {
               "Reference": "erythromycin-quinidine-ddi",
-              "Title": "Erythromycin-Quinidine-DDI",
+              "Title": "Erythromycin - Quinidine DDI",
               "Content": "Content/Erythromycin-Quinidine-DDI.md"
             },
             {
               "Reference": "fluvoxamine-quinidine-ddi",
-              "Title": "Fluvoxamine-Quinidine-DDI",
+              "Title": "Fluvoxamine - Quinidine DDI",
               "Content": "Content/Fluvoxamine-Quinidine-DDI.md"
             },
             {
               "Reference": "itraconazole-quinidine-ddi",
-              "Title": "Itraconazole-Quinidine-DDI",
+              "Title": "Itraconazole - Quinidine DDI",
               "Content": "Content/Itraconazole-Quinidine-DDI.md"
             },
             {
               "Reference": "omeprazole-quinidine-ddi",
-              "Title": "Omeprazole-Quinidine-DDI",
+              "Title": "Omeprazole - Quinidine DDI",
               "Content": "Content/Omeprazole-Quinidine-DDI.md"
             },
             {
               "Reference": "rifampicin-quinidine-ddi",
-              "Title": "Rifampicin-Quinidine-DDI",
+              "Title": "Rifampicin - Quinidine DDI",
               "Content": "Content/Rifampicin-Quinidine-DDI.md"
             },
             {
               "Reference": "verapamil-quinidine-ddi",
-              "Title": "Verapamil-Quinidine-DDI",
+              "Title": "Verapamil - Quinidine DDI",
               "Content": "Content/Verapamil-Quinidine-DDI.md"
             },
             {
               "Reference": "ketoconazole-risperidone-ddi",
-              "Title": "Ketoconazole-Risperidone-DDI",
+              "Title": "Ketoconazole - Risperidone DDI",
               "Content": "Content/Ketoconazole-Risperidone-DDI.md"
             },
             {
               "Reference": "rifampicin-risperidone-ddi",
-              "Title": "Rifampicin-Risperidone-DDI",
+              "Title": "Rifampicin - Risperidone DDI",
               "Content": "Content/Rifampicin-Risperidone-DDI.md"
             },
             {
               "Reference": "verapamil-risperidone-ddi",
-              "Title": "Verapamil-Risperidone-DDI",
+              "Title": "Verapamil - Risperidone DDI",
               "Content": "Content/Verapamil-Risperidone-DDI.md"
+            }
+          ]
+        },
+        {
+          "Reference": "ddi-concentration-time-profiles",
+          "Title": "DDI Concentration-Time Profiles",
+          "Content": "Content/Intro_evaluation_CTprofiles.md",
+          "Sections": [
+            {
+              "Reference": "paroxetine-alprazolam-ddi-timeprofile",
+              "Title": "Paroxetine - Alprazolam DDI"
+            },
+            {
+              "Reference": "fluvoxamine-atomoxetine-ddi-timeprofile",
+              "Title": "Fluvoxamine - Atomoxetine DDI"
+            },
+            {
+              "Reference": "atomoxetine-desipramine-ddi-timeprofile",
+              "Title": "Atomoxetine - Desipramine DDI"
+            },
+            {
+              "Reference": "quinidine-desipramine-ddi-timeprofile",
+              "Title": "Quinidine - Desipramine DDI"
+            },
+            {
+              "Reference": "quinidine-dextromethorphan-ddi-timeprofile",
+              "Title": "Quinidine - Dextromethorphan DDI"
+            },
+            {
+              "Reference": "quinidine-digoxin-ddi-timeprofile",
+              "Title": "Quinidine - Digoxin DDI"
+            },
+            {
+              "Reference": "cimetidine-metoprolol-ddi-timeprofile",
+              "Title": "Cimetidine - Metoprolol DDI"
+            },
+            {
+              "Reference": "paroxetine-metoprolol-ddi-timeprofile",
+              "Title": "Paroxetine - Metoprolol DDI"
+            },
+            {
+              "Reference": "rifampicin-metoprolol-ddi-timeprofile",
+              "Title": "Rifampicin - Metoprolol DDI"
+            },
+            {
+              "Reference": "atomoxetine-midazolam-ddi-timeprofile",
+              "Title": "Atomoxetine - Midazolam DDI"
+            },
+            {
+              "Reference": "itraconazole-paroxetine-ddi-timeprofile",
+              "Title": "Itraconazole - Paroxetine DDI"
+            },
+            {
+              "Reference": "quinidine-paroxetine-ddi-timeprofile",
+              "Title": "Quinidine - Paroxetine DDI"
+            },
+            {
+              "Reference": "carbamazepine-quinidine-ddi-timeprofile",
+              "Title": "Carbamazepine - Quinidine DDI"
+            },
+            {
+              "Reference": "cimetidine-quinidine-ddi-timeprofile",
+              "Title": "Cimetidine - Quinidine DDI"
+            },
+            {
+              "Reference": "erythromycin-quinidine-ddi-timeprofile",
+              "Title": "Erythromycin - Quinidine DDI"
+            },
+            {
+              "Reference": "fluvoxamine-quinidine-ddi-timeprofile",
+              "Title": "Fluvoxamine - Quinidine DDI"
+            },
+            {
+              "Reference": "itraconazole-quinidine-ddi-timeprofile",
+              "Title": "Itraconazole - Quinidine DDI"
+            },
+            {
+              "Reference": "omeprazole-quinidine-ddi-timeprofile",
+              "Title": "Omeprazole - Quinidine DDI"
+            },
+            {
+              "Reference": "rifampicin-quinidine-ddi-timeprofile",
+              "Title": "Rifampicin - Quinidine DDI"
+            },
+            {
+              "Reference": "verapamil-quinidine-ddi-timeprofile",
+              "Title": "Verapamil - Quinidine DDI"
+            },
+            {
+              "Reference": "ketoconazole-risperidone-ddi-timeprofile",
+              "Title": "Ketoconazole - Risperidone DDI"
+            },
+            {
+              "Reference": "rifampicin-risperidone-ddi-timeprofile",
+              "Title": "Rifampicin - Risperidone DDI"
+            },
+            {
+              "Reference": "verapamil-risperidone-ddi-timeprofile",
+              "Title": "Verapamil - Risperidone DDI"
             }
           ]
         }
       ]
     },
     {
-      "Reference": "qualification-of-use-case-cyp2d6-mediated-ddis",
-      "Title": "Qualification of Use Case CYP2D6-mediated DDIs",
-      "Content": "Content/Intro_evaluation_DDI_network.md"
-    },
-    {
-      "Reference": "concentration-time-profiles",
-      "Title": "Concentration-Time Profiles",
-      "Content": "Content/Intro_evaluation_CTprofiles.md",
+      "Reference": "ddgi-evaluations",
+      "Title": "DDGI Evaluations",
+      "Content": "Content/Intro_evaluation_DDI_network.md",
       "Sections": [
         {
-          "Reference": "paroxetine-alprazolam-ddi-timeprofile",
-          "Title": "Paroxetine-Alprazolam-DDI"
+          "Reference": "ddgi-network-evaluations",
+          "Title": "DDGI Network Evaluations",
+          "Content": "Content/Qualification_DDI_network_description.md",
+          "Sections": [
+            {
+              "Reference": "paroxetine-atomoxetine-ddgi",
+              "Title": "Paroxetine - Atomoxetine DDGI",
+              "Content": "Content/Paroxetine-Atomoxetine-DDGI.md"
+            },
+            {
+              "Reference": "clarithromycin-clomiphene-ddgi",
+              "Title": "Clarithromycin - Clomiphene DDGI",
+              "Content": "Content/Clarithromycin-Clomiphene-DDGI.md"
+            },
+            {
+              "Reference": "paroxetine-clomiphene-ddgi",
+              "Title": "Paroxetine - Clomiphene DDGI",
+              "Content": "Content/Paroxetine-Clomiphene-DDGI.md"
+            },
+            {
+              "Reference": "paroxetine-desipramine-ddgi",
+              "Title": "Paroxetine - Desipramine DDGI",
+              "Content": "Content/Paroxetine-Desipramine-DDGI.md"
+            },
+            {
+              "Reference": "paroxetine-dextromethorphan-ddgi",
+              "Title": "Paroxetine - Dextromethorphan DDGI",
+              "Content": "Content/Paroxetine-Dextromethorphan-DDGI.md"
+            },
+            {
+              "Reference": "quinidine-metoprolol-ddgi",
+              "Title": "Quinidine - Metoprolol DDGI",
+              "Content": "Content/Quinidine-Metoprolol-DDGI.md"
+            },
+            {
+              "Reference": "quinidine-mexiletine-ddgi",
+              "Title": "Quinidine - Mexiletine DDGI",
+              "Content": "Content/Quinidine-Mexiletine-DDGI.md"
+            }
+          ]
         },
         {
-          "Reference": "fluvoxamine-atomoxetine-ddi-timeprofile",
-          "Title": "Fluvoxamine-Atomoxetine-DDI"
-        },
-        {
-          "Reference": "paroxetine-atomoxetine-ddgi-timeprofile",
-          "Title": "Paroxetine-Atomoxetine-DDGI"
-        },
-        {
-          "Reference": "clarithromycin-clomiphene-ddgi-timeprofile",
-          "Title": "Clarithromycin-Clomiphene-DDGI"
-        },
-        {
-          "Reference": "paroxetine-clomiphene-ddgi-timeprofile",
-          "Title": "Paroxetine-Clomiphene-DDGI"
-        },
-        {
-          "Reference": "atomoxetine-desipramine-ddi-timeprofile",
-          "Title": "Atomoxetine-Desipramine-DDI"
-        },
-        {
-          "Reference": "paroxetine-desipramine-ddgi-timeprofile",
-          "Title": "Paroxetine-Desipramine-DDGI"
-        },
-        {
-          "Reference": "quinidine-desipramine-ddi-timeprofile",
-          "Title": "Quinidine-Desipramine-DDI"
-        },
-        {
-          "Reference": "paroxetine-dextromethorphan-ddgi-timeprofile",
-          "Title": "Paroxetine-Dextromethorphan-DDGI"
-        },
-        {
-          "Reference": "quinidine-dextromethorphan-ddi-timeprofile",
-          "Title": "Quinidine-Dextromethorphan-DDI"
-        },
-        {
-          "Reference": "quinidine-digoxin-ddi-timeprofile",
-          "Title": "Quinidine-Digoxin-DDI"
-        },
-        {
-          "Reference": "cimetidine-metoprolol-ddi-timeprofile",
-          "Title": "Cimetidine-Metoprolol-DDI"
-        },
-        {
-          "Reference": "paroxetine-metoprolol-ddi-timeprofile",
-          "Title": "Paroxetine-Metoprolol-DDI"
-        },
-        {
-          "Reference": "quinidine-metoprolol-ddgi-timeprofile",
-          "Title": "Quinidine-Metoprolol-DDGI"
-        },
-        {
-          "Reference": "rifampicin-metoprolol-ddi-timeprofile",
-          "Title": "Rifampicin-Metoprolol-DDI"
-        },
-        {
-          "Reference": "quinidine-mexiletine-ddgi-timeprofile",
-          "Title": "Quinidine-Mexiletine-DDGI"
-        },
-        {
-          "Reference": "atomoxetine-midazolam-ddi-timeprofile",
-          "Title": "Atomoxetine-Midazolam-DDI"
-        },
-        {
-          "Reference": "itraconazole-paroxetine-ddi-timeprofile",
-          "Title": "Itraconazole-Paroxetine-DDI"
-        },
-        {
-          "Reference": "quinidine-paroxetine-ddi-timeprofile",
-          "Title": "Quinidine-Paroxetine-DDI"
-        },
-        {
-          "Reference": "carbamazepine-quinidine-ddi-timeprofile",
-          "Title": "Carbamazepine-Quinidine-DDI"
-        },
-        {
-          "Reference": "cimetidine-quinidine-ddi-timeprofile",
-          "Title": "Cimetidine-Quinidine-DDI"
-        },
-        {
-          "Reference": "erythromycin-quinidine-ddi-timeprofile",
-          "Title": "Erythromycin-Quinidine-DDI"
-        },
-        {
-          "Reference": "fluvoxamine-quinidine-ddi-timeprofile",
-          "Title": "Fluvoxamine-Quinidine-DDI"
-        },
-        {
-          "Reference": "itraconazole-quinidine-ddi-timeprofile",
-          "Title": "Itraconazole-Quinidine-DDI"
-        },
-        {
-          "Reference": "omeprazole-quinidine-ddi-timeprofile",
-          "Title": "Omeprazole-Quinidine-DDI"
-        },
-        {
-          "Reference": "rifampicin-quinidine-ddi-timeprofile",
-          "Title": "Rifampicin-Quinidine-DDI"
-        },
-        {
-          "Reference": "verapamil-quinidine-ddi-timeprofile",
-          "Title": "Verapamil-Quinidine-DDI"
-        },
-        {
-          "Reference": "ketoconazole-risperidone-ddi-timeprofile",
-          "Title": "Ketoconazole-Risperidone-DDI"
-        },
-        {
-          "Reference": "rifampicin-risperidone-ddi-timeprofile",
-          "Title": "Rifampicin-Risperidone-DDI"
-        },
-        {
-          "Reference": "verapamil-risperidone-ddi-timeprofile",
-          "Title": "Verapamil-Risperidone-DDI"
+          "Reference": "ddgi-concentration-time-profiles",
+          "Title": "DDGI Concentration-Time Profiles",
+          "Content": "Content/Intro_evaluation_CTprofiles.md",
+          "Sections": [
+            {
+              "Reference": "paroxetine-atomoxetine-ddgi-timeprofile",
+              "Title": "Paroxetine - Atomoxetine DDGI"
+            },
+            {
+              "Reference": "clarithromycin-clomiphene-ddgi-timeprofile",
+              "Title": "Clarithromycin - Clomiphene DDGI"
+            },
+            {
+              "Reference": "paroxetine-clomiphene-ddgi-timeprofile",
+              "Title": "Paroxetine - Clomiphene DDGI"
+            },
+            {
+              "Reference": "paroxetine-desipramine-ddgi-timeprofile",
+              "Title": "Paroxetine - Desipramine DDGI"
+            },
+            {
+              "Reference": "paroxetine-dextromethorphan-ddgi-timeprofile",
+              "Title": "Paroxetine - Dextromethorphan DDGI"
+            },
+            {
+              "Reference": "quinidine-metoprolol-ddgi-timeprofile",
+              "Title": "Quinidine - Metoprolol DDGI"
+            },
+            {
+              "Reference": "quinidine-mexiletine-ddgi-timeprofile",
+              "Title": "Quinidine - Mexiletine DDGI"
+            }
+          ]
         }
       ]
+    },
+    {
+      "Reference": "conclusion",
+      "Title": "Conclusion",
+      "Content": "Content/Conclusion.md",
+      "Sections": []
     },
     {
       "Reference": "references",
@@ -6986,15 +7029,18 @@
       "Sections": [
         {
           "Reference": "osp-introduction",
-          "Title": "Open Systems Pharmacology Suite (OSPS) Introduction"
+          "Title": "Open Systems Pharmacology Suite (OSPS) Introduction",
+          "Content": "Content/Appendix_OSP_Introduction.md"
         },
         {
           "Reference": "mathematical-implementation-of-ddi",
-          "Title": "Mathematical Implementation of Drug-Drug Interactions"
+          "Title": "Mathematical Implementation of Drug-Drug Interactions",
+          "Content": "Content/Appendix_DDI_Implementation.md"
         },
         {
           "Reference": "automatic-requalification-workflow",
-          "Title": "Automatic (re)-qualification workflow"
+          "Title": "Automatic (re)-qualification workflow",
+          "Content": "Content/Appendix_Requalification_Workflow.md"
         }
       ]
     },

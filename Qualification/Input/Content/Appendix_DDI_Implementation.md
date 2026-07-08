@@ -1,0 +1,5 @@
+Drug-drug interaction simulations in the OSP Suite are represented through mechanistic changes in drug disposition processes. Depending on the compound and interaction scenario, these processes can include reversible enzyme inhibition, time-dependent inactivation, induction, transporter inhibition, transporter induction, or changes in multiple pathways.
+
+For CYP2D6 DDGI scenarios, genotype-dependent activity is represented through phenotype-specific or activity-score-specific model settings where supported by the source model. The resulting simulations compare the victim-drug exposure with and without the perpetrator under the clinical dosing schedule. AUC and Cmax ratios are then calculated from matched control and interaction simulations.
+
+The qualification plots compare predicted and observed exposure ratios. Performance is summarized using predicted versus observed plots, predicted/observed residual plots, geometric mean fold error, two-fold limits, and the limits proposed for ratio endpoints by Guest et al.

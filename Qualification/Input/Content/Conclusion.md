@@ -1,0 +1,5 @@
+The CYP2D6 DDGI network was qualified against clinical DD(G)I data for AUC and Cmax ratios across the selected perpetrator and victim combinations. In the current qualification run, the aggregate GMFE was 1.40 for AUC ratios and 1.38 for Cmax ratios. Most predictions were within two-fold of the observed values, with 86.32% of AUC ratios and 87.07% of Cmax ratios meeting this criterion.
+
+The stricter limits proposed by Guest et al. were met by 57.26% of AUC ratios and 55.17% of Cmax ratios. The network therefore supports the intended use of the OSP Suite for CYP2D6-mediated DDI and DDGI simulations within the evaluated scenarios, while the remaining deviations indicate that model performance should be interpreted together with the underlying interaction mechanism, genotype group, victim drug, perpetrator drug, and analyte.
+
+This qualification does not replace compound-specific model evaluation. New use cases should remain within the mechanistic and clinical-data domain covered by the qualified network or should be supported by additional verification.

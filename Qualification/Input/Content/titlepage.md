@@ -2,11 +2,11 @@
 
 
 
-| Version                         | x.x-OSPy.y                                                   |
+| Version                         | main-OSP12.2                                                 |
 | ------------------------------- | ------------------------------------------------------------ |
-| Qualification Plan Release      | https://github.com/Open-Systems-Pharmacology/Qualification-DDGI-CYP2D6/releases/tag/vx.x |
-| OSP Version                     | y.y                                                          |
-| Qualification Framework Version | z.z                                                          |
+| Qualification Plan Release      | https://github.com/Open-Systems-Pharmacology/DDGI-CYP2D6     |
+| OSP Version                     | 12.2                                                         |
+| Qualification Framework Version | 3.5                                                          |
 
 
 

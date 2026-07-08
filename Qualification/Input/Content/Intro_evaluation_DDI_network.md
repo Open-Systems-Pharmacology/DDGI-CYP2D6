@@ -10,7 +10,7 @@ Specifically, the PBPK model performance for the PK parameters **AUC ratio (AUCR
   
   ![GMFE equation](images/GFME_equation.PNG)
   
-- number of AUCR and CMAXR falling within 2-fold error range and within the limits suggested by [Guest et al. 2011](#4-references)
+- number of AUCR and CMAXR falling within 2-fold error range and within the limits suggested by [Guest et al. 2011](#references)
   
 - detailed table of results for each study
 
@@ -19,7 +19,7 @@ In the plots,
 
 - the dotted lines denote 0.50–2.00 (2-fold) criterion,
 
-- the solid lines denote the limits suggested by [Guest et al. 2011](#4-references),
+- the solid lines denote the limits suggested by [Guest et al. 2011](#references),
 
 - the bold solid line denotes the unity line,
 
@@ -27,4 +27,3 @@ In the plots,
 
 
 ***
-
