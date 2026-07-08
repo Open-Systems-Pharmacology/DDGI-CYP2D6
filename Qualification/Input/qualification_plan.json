@@ -111,7 +111,7 @@
     },
     {
       "Id": "Paroxetine-Dextromethorphan-DDGI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Dextromethorphan-DDGI/main/Paroxetine-Dextromethorphan-DDGI.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Dextromethorphan-DDGI/qualification-cyp2d6-snapshot-sync/Paroxetine-Dextromethorphan-DDGI.json",
       "BuildingBlocks": [],
       "SimulationParameters": []
     },
