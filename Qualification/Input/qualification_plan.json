@@ -21,7 +21,7 @@
     },
     {
       "Id": "Quinidine-Paroxetine-DDI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Quinidine-Paroxetine-DDI/main/Quinidine-Paroxetine-DDI.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Quinidine-Paroxetine-DDI/qualification-cyp2d6-snapshot-sync/Quinidine-Paroxetine-DDI.json",
       "BuildingBlocks": [],
       "SimulationParameters": []
     },
@@ -63,7 +63,7 @@
     },
     {
       "Id": "Paroxetine-Alprazolam-DDI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Alprazolam-DDI/main/Paroxetine-Alprazolam-DDI.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Alprazolam-DDI/qualification-cyp2d6-snapshot-sync/Paroxetine-Alprazolam-DDI.json",
       "BuildingBlocks": [],
       "SimulationParameters": []
     },
@@ -87,7 +87,7 @@
     },
     {
       "Id": "Paroxetine-Clomiphene-DDGI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Clomiphene-DDGI/main/Paroxetine-Clomiphene-DDGI.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Clomiphene-DDGI/qualification-cyp2d6-snapshot-sync/Paroxetine-Clomiphene-DDGI.json",
       "BuildingBlocks": [],
       "SimulationParameters": []
     },
@@ -3124,9 +3124,9 @@
         "OutputMappings": [
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (black)",
+            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (Black American)",
             "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (black), R-metoprolol",
+            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (Black American), R-metoprolol",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#5d478b",
@@ -3135,9 +3135,9 @@
           },
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (black)",
+            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (Black American)",
             "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (black), R-metoprolol",
+            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (Black American), R-metoprolol",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#9f79ee",
@@ -3146,9 +3146,9 @@
           },
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (black)",
+            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (Black American)",
             "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (black), S-metoprolol",
+            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (Black American), S-metoprolol",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#104e8b",
@@ -3157,9 +3157,9 @@
           },
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (black)",
+            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (Black American)",
             "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (black), S-metoprolol",
+            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (Black American), S-metoprolol",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#1c86ee",
@@ -3176,9 +3176,9 @@
         "OutputMappings": [
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (white)",
+            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (White American)",
             "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (white), R-metoprolol",
+            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (White American), R-metoprolol",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#5d478b",
@@ -3187,9 +3187,9 @@
           },
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (white)",
+            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (White American)",
             "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (white), R-Metoprolol",
+            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (White American), R-Metoprolol",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#9f79ee",
@@ -3198,9 +3198,9 @@
           },
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (white)",
+            "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (White American)",
             "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (white), S-metoprolol",
+            "ObservedData": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (White American), S-metoprolol",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#104e8b",
@@ -3209,9 +3209,9 @@
           },
           {
             "Project": "Quinidine-Metoprolol-DDGI",
-            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (white)",
+            "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (White American)",
             "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (white), S-metoprolol",
+            "ObservedData": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (White American), S-metoprolol",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#1c86ee",
@@ -6589,14 +6589,14 @@
                 "ObservedDataRecordId": 17144,
                 "SimulationControl": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (black)",
+                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (Black American)",
                   "StartTime": 0,
                   "EndTime": 12,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (black)",
+                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (Black American)",
                   "StartTime": 74,
                   "EndTime": 98,
                   "TimeUnit": "h"
@@ -6615,14 +6615,14 @@
                 "ObservedDataRecordId": 17146,
                 "SimulationControl": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (black)",
+                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (Black American)",
                   "StartTime": 0,
                   "EndTime": 12,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (black)",
+                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (Black American)",
                   "StartTime": 74,
                   "EndTime": 98,
                   "TimeUnit": "h"
@@ -6641,14 +6641,14 @@
                 "ObservedDataRecordId": 17148,
                 "SimulationControl": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (white)",
+                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (White American)",
                   "StartTime": 0,
                   "EndTime": 12,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (white)",
+                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (White American)",
                   "StartTime": 74,
                   "EndTime": 98,
                   "TimeUnit": "h"
@@ -6667,14 +6667,14 @@
                 "ObservedDataRecordId": 17150,
                 "SimulationControl": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (white)",
+                  "Simulation": "Johnson (1996) - metoprolol tartrate, po, 200 mg, n=10 (White American)",
                   "StartTime": 0,
                   "EndTime": 12,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Quinidine-Metoprolol-DDGI",
-                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (white)",
+                  "Simulation": "Johnson (1996) - DDI - metoprolol-quinidine, po, 200/100 mg, n=10 (White American)",
                   "StartTime": 74,
                   "EndTime": 98,
                   "TimeUnit": "h"
