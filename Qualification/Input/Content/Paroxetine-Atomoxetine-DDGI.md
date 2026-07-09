@@ -10,3 +10,4 @@ The paroxetine-atomoxetine interaction was evaluated using clinical DDGI studies
 
 **Table 4:**<a name="table-4"></a> AS: CYP2D6 activity score, b.i.d.: twice daily, m: male, N: number of study participants, PAR: paroxetine, po: oral, pop.: population used in simulations, q.d.: once daily, s.d.: single dose. If perpetrator or victim drugs were applied in form of salts, the respective dose of base was calculated and incorporated in simulations.
 
+The Jung 2020 cohorts are reported by CYP2D6 activity score. These simulations therefore retain activity-score-specific atomoxetine CYP2D6 k<sub>cat</sub> settings. The remaining atomoxetine studies use the NM/EM setting unless a PM cohort is explicitly reported.
