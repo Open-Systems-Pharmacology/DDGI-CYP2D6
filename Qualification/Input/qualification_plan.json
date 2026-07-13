@@ -195,7 +195,7 @@
     },
     {
       "Id": "Dextromethorphan-DGI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dextromethorphan-Model/main/Dextromethorphan-Model.json"
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dextromethorphan-Model/main/dextromethorphan_aggregated_simulations.json"
     },
     {
       "Id": "Metoprolol-DGI",
@@ -7673,6 +7673,82 @@
                   "EndTime": 11.963,
                   "TimeUnit": "h"
                 }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900030,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Atomoxetine-DDGI",
+                  "Simulation": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd n=10",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Atomoxetine-DDGI",
+                  "Simulation": "Jung 2020 10_10 - Atomoxetine - po, 20 mg, sd n=7",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900031,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Atomoxetine-DDGI",
+                  "Simulation": "Jung 2020 WT_WT - Atomoxetine - po, 20 mg, sd n=10",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Atomoxetine-DDGI",
+                  "Simulation": "Jung 2020 WT_10 - Atomoxetine - po, 20 mg, sd n=9",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900032,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=4 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 216.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Sauer (2003) - atomoxetine, 20 mg b.i.d., po, n=3 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 216.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900033,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=18 (NM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Todor (2016) - atomoxetine, 25 mg, po, n=2 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
               }
             ]
           },
@@ -7737,6 +7813,25 @@
                   "EndTime": 11.965,
                   "TimeUnit": "h"
                 }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900085,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=8 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Bondolfi (2002) - risperidone, 2 mg, po, md, n=2 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
               }
             ]
           },
@@ -7799,6 +7894,1045 @@
                   "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
                   "StartTime": 0,
                   "EndTime": 48,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Desipramine",
+            "Color": "#11A579",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900034,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1988) - desipramine hydrochloride, iv, 50 mg, n=4 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 432.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1988) - desipramine hydrochloride, iv, 50 mg, n=3 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 432.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900035,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1988) - desipramine hydrochloride, iv, 50 mg, n=4 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1988) - desipramine hydrochloride, iv, 50 mg, n=4 (fast EM)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900036,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Spina (1987) - desipramine hydrochloride, po, 25 mg, n=8 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Spina (1987) - desipramine hydrochloride, po, 25 mg, n=6 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900037,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Desipramine-DDGI",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 240.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Desipramine-DDGI",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 240.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900038,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Desipramine-DDGI",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Desipramine-DDGI",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900040,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Bergmann (2001) - desipramine hydrochloride, po, 100 mg, n=6 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 14.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Bergmann (2001) - desipramine hydrochloride, po, 100 mg, n=6 (AS=2.5)",
+                  "StartTime": 0,
+                  "EndTime": 14.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900042,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1986) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 408.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1986) - desipramine hydrochloride, po, 100 mg, n=6 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 408.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900043,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1986) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1986) - desipramine hydrochloride, po, 100 mg, n=6 (fast EM)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "2-Hydroxydesipramine",
+            "Color": "#7F3C8D",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|2-Hydroxydesipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900039,
+                "SimulationControl": {
+                  "Project": "Paroxetine-Desipramine-DDGI",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-Desipramine-DDGI",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|2-Hydroxydesipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900041,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Bergmann (2001) - desipramine hydrochloride, po, 100 mg, n=6 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Bergmann (2001) - desipramine hydrochloride, po, 100 mg, n=6 (AS=2.5)",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|2-Hydroxydesipramine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900044,
+                "SimulationControl": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1986) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Desipramine-DGI",
+                  "Simulation": "Brøsen (1986) - desipramine hydrochloride, po, 100 mg, n=6 (fast EM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Dextromethorphan",
+            "Color": "#E73F74",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900045,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Storelli 2018 NM, 5 mg dextromethorphan base (capsule/solution), n=17, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Storelli 2018 IM, 5 mg dextromethorphan base (capsule/solution), n=16",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900047,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Qiu 2016 NM, 15 mg dextromethorphan hydrobromide (capsule/solution), n=6, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Qiu 2016 IM, 15 mg dextromethorphan hydrobromide (capsule/solution), n=6, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900048,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Qiu 2016 NM, 15 mg dextromethorphan hydrobromide (capsule/solution), n=6, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Qiu 2016 NM, 15 mg dextromethorphan hydrobromide (capsule/solution), n=6, AS=1.25",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900049,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Yamazaki 2017 NM, 30 mg dextromethorphan hydrobromide (capsule/solution), n=11, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Yamazaki 2017 IM, 30 mg dextromethorphan hydrobromide (capsule/solution), n=12, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900050,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Capon 1996 EM, 30 mg dextromethorphan hydrobromide (capsule/solution), n=6",
+                  "StartTime": 0,
+                  "EndTime": 168.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Capon 1996 PM, 30 mg dextromethorphan hydrobromide (capsule/solution), n=6",
+                  "StartTime": 0,
+                  "EndTime": 168.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextromethorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900051,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Gorski 2004 EM, 30 mg dextromethorphan hydromide (capsule/solution), n=11",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Gorski 2004 PM, 30 mg dextromethorphan hydromide (capsule/solution), n=1",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Dextrorphan",
+            "Color": "#80BA5A",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dextrorphan|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900046,
+                "SimulationControl": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Storelli 2018 NM, 5 mg dextromethorphan base (capsule/solution), n=17, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Dextromethorphan-DGI",
+                  "Simulation": "Storelli 2018 IM, 5 mg dextromethorphan base (capsule/solution), n=16",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Metoprolol racemate",
+            "Color": "#E68310",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900052,
+                "SimulationControl": {
+                  "Project": "Quinidine-Metoprolol-DDGI",
+                  "Simulation": "Leemann (1993) - metoprolol tartrate 20 mg, iv, n=4 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 8.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Quinidine-Metoprolol-DDGI",
+                  "Simulation": "Leemann (1993) - metoprolol tartrate 20 mg, iv, n=3 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 8.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900053,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Bae 2014 NM, 100 mg tartrate IR, n=4, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Bae 2014 IM, 100 mg tartrate IR, n=3, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900055,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 NM, 100 mg tartrate IR, n=6, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 IM, 100 mg tartrate IR, n=5, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900057,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 NM, 100 mg tartrate IR, n=6, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 NM, 100 mg tartrate IR, n=7, AS=1.25",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900059,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Hamelin 2000 NM, 100 mg tartrate IR, n=10",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Hamelin 2000 PM, 100 mg tartrate IR, n=6",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900060,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "alpha-Hydroxymetoprolol",
+            "Color": "#008695",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|alpha-Hydroxymetoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900054,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Bae 2014 NM, 100 mg tartrate IR, n=4, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Bae 2014 IM, 100 mg tartrate IR, n=3, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|alpha-Hydroxymetoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900056,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 NM, 100 mg tartrate IR, n=6, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 IM, 100 mg tartrate IR, n=5, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|alpha-Hydroxymetoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900058,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 NM, 100 mg tartrate IR, n=6, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Jin 2008 NM, 100 mg tartrate IR, n=7, AS=1.25",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "R-Metoprolol",
+            "Color": "#CF1C90",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900061,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900063,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=16, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 IM, 100 mg tartrate IR, n=12, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900065,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=16, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=12, AS=1.25",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900067,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 NM, 100 mg tartrate IR, n=13, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 PM, 100 mg tartrate IR, n=4, AS=0",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900069,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 NM, 100 mg tartrate IR, n=13, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 10.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 UM, 100 mg tartrate IR, n=12, AS=3",
+                  "StartTime": 0,
+                  "EndTime": 10.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "S-Metoprolol",
+            "Color": "#F2B701",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900062,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900064,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=16, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 IM, 100 mg tartrate IR, n=12, AS=0.5",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900066,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=16, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=12, AS=1.25",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900068,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 NM, 100 mg tartrate IR, n=13, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 PM, 100 mg tartrate IR, n=4, AS=0",
+                  "StartTime": 0,
+                  "EndTime": 24.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900070,
+                "SimulationControl": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 NM, 100 mg tartrate IR, n=13, AS=2",
+                  "StartTime": 0,
+                  "EndTime": 10.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Metoprolol-DGI",
+                  "Simulation": "Kirchheiner/Seeringer 2008 UM, 100 mg tartrate IR, n=12, AS=3",
+                  "StartTime": 0,
+                  "EndTime": 10.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Mexiletine",
+            "Color": "#5F4690",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900071,
+                "SimulationControl": {
+                  "Project": "Mexiletine-DGI",
+                  "Simulation": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM) prediction",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Mexiletine-DGI",
+                  "Simulation": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM) prediction",
+                  "StartTime": 0,
+                  "EndTime": 12.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900072,
+                "SimulationControl": {
+                  "Project": "Quinidine-Mexiletine-DDGI",
+                  "Simulation": "Abolfathi (1993) - mexiletine hydrochloride, 200 mg, po, n=10 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Quinidine-Mexiletine-DDGI",
+                  "Simulation": "Abolfathi (1993) - mexiletine hydrochloride, 200 mg, po, n=4 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 48.0,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Paroxetine",
+            "Color": "#38A6A5",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900073,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900074,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900075,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5)",
+                  "StartTime": 0,
+                  "EndTime": 72.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900076,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900077,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900078,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900079,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900080,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900081,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3)",
+                  "StartTime": 0,
+                  "EndTime": 144.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900082,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 240.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=1 (AS=0)",
+                  "StartTime": 0,
+                  "EndTime": 240.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900083,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 192.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5)",
+                  "StartTime": 0,
+                  "EndTime": 192.0,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900084,
+                "SimulationControl": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Paroxetine-DGI",
+                  "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25)",
+                  "StartTime": 0,
+                  "EndTime": 96.0,
                   "TimeUnit": "h"
                 }
               }
