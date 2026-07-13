@@ -46,6 +46,8 @@
 
 **Kolb 1984** K. W. Kolb, W. R. Garnett, R. E. Small, G. W. Vetrovec, B. J. Kline, and T. Fox. Effect of cimetidine on quinidine clearance. Therapeutic Drug Monitoring, 6(3):306–312, 1984. doi: 10.1097/00007691-198409000-00009.
 
+**Kovar 2022** C. Kovar, L. Kovar, S. Ruedesheim, D. Selzer, B. Ganchev, P. Kroener, S. Igel, R. Kerb, E. Schaeffeler, T. E. Murdter, M. Schwab, and T. Lehr. Prediction of Drug-Drug-Gene Interaction Scenarios of (E)-Clomiphene and Its Metabolites Using Physiologically Based Pharmacokinetic Modeling. Pharmaceutics, 14:2604, 2022. doi: 10.3390/pharmaceutics14122604.
+
 **Leemann 1993** T. D. Leemann, K. P. Devi, and P. Dayer. Similar effect of oxidation deficiency (debrisoquine polymorphism) and quinidine on the apparent volume of distribution of (+/-)-metoprolol. European journal of clinical pharmacology, 45(1):65–71, 1993. doi: 10.1007/BF00315352.
 
 **Mahatthanatrakul 2007** W. Mahatthanatrakul, T. Nontaput, W. Ridtitid, M. Wongnawa, and M. Sunbhanich. Rifampin, a cytochrome P4503A inducer, decreases plasma concentrations of antipsychotic risperidone in healthy volunteers. Journal of clinical pharmacy and therapeutics, 32(2):161–7, 2007. doi: 10.1111/j.1365-2710.2007.00811.x.
@@ -54,15 +56,21 @@
 
 **Mürdter 2016** T. Mürdter. Impact of CYP2D6 genotype and co-medication with paroxetine and clarithromycin on clomiphene metabolism in vivo. Abstracts of the 82nd Annual Meeting of the German Society for Experimental and Clinical Pharmacology and Toxicology (DGPT) in Naunyn-Schmiedeberg Archives of Pharmacology, 2016.
 
+**Murdter 2012** T. E. Murdter, R. Kerb, M. Turpeinen, W. Schroth, B. Ganchev, G. M. Boehmer, S. Igel, E. Schaeffeler, U. Zanger, H. Brauch, and M. Schwab. Genetic polymorphism of cytochrome P450 2D6 determines oestrogen receptor activity of the major infertility drug clomiphene via its active metabolites. Human Molecular Genetics, 21:1145-1154, 2012. doi: 10.1093/hmg/ddr543.
+
 **Nakagami 2005** T. Nakagami, N. Yasui-Furukori, M. Saito, T. Tateishi, and S. Kaneo. Effect of verapamil on pharmacokinetics and pharmacodynamics of risperidone: in vivo evidence of involvement of P-glycoprotein in risperidone disposition. Clinical pharmacology and therapeutics, 78(1):43–51, 2005. doi: 10.1016/j.clpt.2005.03.009.
 
 **Nichols 2009** A. I. Nichols, P. Fatato, M. Shenouda, J. Paul, J. A. Isler, R. D. Pedersen, Q. Jiang, S. Ahmed, and A. Patroneva. The effects of desvenlafaxine and paroxetine on the pharmacokinetics of the cytochrome P450 2D6 substrate desipramine in healthy adults. Journal of clinical pharmacology, 49(2):219–28, 2009. doi: 10.1177/0091270008326716.
+
+**Novalbos 2010** J. Novalbos, F. Lopez-Rodriguez, E. Roman, B. Gallego-Sandin, A. Ochoa, J. Abad-Santos. Effects of CYP2D6 genotype on the pharmacokinetics, pharmacodynamics, and safety of risperidone in healthy volunteers. Journal of Clinical Psychopharmacology, 30(5):504-511, 2010. doi: 10.1097/JCP.0b013e3181f0c704.
 
 **Ochs 1981** H. R. Ochs, G. Bodem, and D. J. Greenblatt. Impairment of digoxin clearance by coadministration of quinidine. Journal of clinical pharmacology, 21(10):396–400, 1981. doi: 10.1002/j.1552-4604.1981.tb01739.x.
 
 **Parker 2011** R. B. Parker and J. E. Soberman. Effects of paroxetine on the pharmacokinetics and pharmacodynamics of immediate-release and extended-release metoprolol. Pharmacotherapy, 31(7):630–41, 2011. doi: 10.1592/phco.31.7.630.
 
 **Reese 2008** M. J. Reese, R. M. Wurm, K. T. Muir, G. T. Generaux, L. St John-Williams, and D. J. McConn. An in vitro mechanistic study to elucidate the desipramine/bupropion clinical drug-drug interaction. Drug metabolism and disposition: the biological fate of chemicals, 36(7):1198–201, 2008. doi: 10.1124/dmd.107.020198.
+
+**Ruedesheim 2022** S. Ruedesheim, D. Selzer, T. Murdter, S. Igel, R. Kerb, M. Schwab, and T. Lehr. Physiologically Based Pharmacokinetic Modeling to Describe the CYP2D6 Activity Score-Dependent Metabolism of Paroxetine, Atomoxetine and Risperidone. Pharmaceutics, 14:1734, 2022. doi: 10.3390/pharmaceutics14081734.
 
 **Sauer 2004** J.-M. Sauer, A. J. Long, B. Ring, J. S. Gillespie, N. P. Sanburn, K. A. DeSante, D. Petullo, M. R. VandenBranden, C. B. Jensen, S. A. Wrighton, B. P. Smith, H. A. Read, and J. W. Witcher. Atomoxetine Hydrochloride: Clinical Drug-Drug Interaction Prediction and Outcome. Journal of Pharmacology and Experimental Therapeutics, 308(2):410–418, 2004. doi: 10.1124/jpet.103.058727.
 

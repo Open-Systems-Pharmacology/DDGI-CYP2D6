@@ -180,12 +180,49 @@
       "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Risperidone-DDI/main/Verapamil-Risperidone-DDI.json",
       "BuildingBlocks": [],
       "SimulationParameters": []
+    },
+    {
+      "Id": "Clomiphene-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Clomiphene-Model/main/Clomiphene-Model.json"
+    },
+    {
+      "Id": "Atomoxetine-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atomoxetine-Model/main/Atomoxetine-Model.json"
+    },
+    {
+      "Id": "Desipramine-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Desipramine-Model/main/Desipramine-Model.json"
+    },
+    {
+      "Id": "Dextromethorphan-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dextromethorphan-Model/main/Dextromethorphan-Model.json"
+    },
+    {
+      "Id": "Metoprolol-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Metoprolol-Model/main/Metoprolol-Model.json"
+    },
+    {
+      "Id": "Mexiletine-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mexiletine-Model/main/Mexiletine-Model.json"
+    },
+    {
+      "Id": "Paroxetine-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Paroxetine-Model/main/Paroxetine-Model.json"
+    },
+    {
+      "Id": "Risperidone-DGI",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Risperidone-Model/main/Risperidone-Model.json"
     }
   ],
   "ObservedDataSets": [
     {
       "Id": "DDI Ratios",
       "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.9/DDI.csv",
+      "Type": "DDIRatio"
+    },
+    {
+      "Id": "DGI Ratios",
+      "Path": "ObservedData/DGI_Ratios.csv",
       "Type": "DDIRatio"
     }
   ],
@@ -362,20 +399,20 @@
         "OutputMappings": [
           {
             "Project": "Quinidine-Digoxin-DDI",
-            "Simulation": "Steiness (1980) - digoxin, iv bolus, 15 µg/kg, n=6",
+            "Simulation": "Steiness (1980) - digoxin, iv bolus, 15 mcg/kg, n=6",
             "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Steiness (1980) - digoxin, iv bolus, 15 µg/kg, n=6",
+            "ObservedData": "Steiness (1980) - digoxin, iv bolus, 15 mcg/kg, n=6",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#941C1C",
-            "Caption": "Steiness 1980, DIG (10 µg/kg s.d. iv), n = 6",
+            "Caption": "Steiness 1980, DIG (10 mcg/kg s.d. iv), n = 6",
             "Symbol": "Circle"
           },
           {
             "Project": "Quinidine-Digoxin-DDI",
-            "Simulation": "Steiness (1980) - DDI - quinidine-digoxin, po/iv bolus, 200 mg/10 µg/kg, n=6",
+            "Simulation": "Steiness (1980) - DDI - quinidine-digoxin, po/iv bolus, 200 mg/10 mcg/kg, n=6",
             "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Steiness (1980) - DDI - quinidine-digoxin, po/iv bolus, 200 mg/10 µg/kg, n=6, digoxin",
+            "ObservedData": "Steiness (1980) - DDI - quinidine-digoxin, po/iv bolus, 200 mg/10 mcg/kg, n=6, digoxin",
             "StartTime": 192,
             "TimeUnit": "h",
             "Color": "#DE5050",
@@ -2332,24 +2369,24 @@
         "OutputMappings": [
           {
             "Project": "Paroxetine-Desipramine-DDGI",
-            "Simulation": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM)",
+            "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM), desipramine",
+            "ObservedData": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM), desipramine",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#5F63D9",
-            "Caption": "Brøsen 1993, DES (100 mg s.d. po), n = 8 PM",
+            "Caption": "Brosen 1993, DES (100 mg s.d. po), n = 8 PM",
             "Symbol": "Circle"
           },
           {
             "Project": "Paroxetine-Desipramine-DDGI",
-            "Simulation": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=8 (PM)",
+            "Simulation": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=8 (PM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=8 (PM), desipramine",
+            "ObservedData": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=8 (PM), desipramine",
             "StartTime": 240,
             "TimeUnit": "h",
             "Color": "#A4A3E6",
-            "Caption": "Brøsen 1993, DES (+ PAR, 20 mg q.d. po), n = 8 PM",
+            "Caption": "Brosen 1993, DES (+ PAR, 20 mg q.d. po), n = 8 PM",
             "Symbol": "Circle"
           }
         ]
@@ -2362,24 +2399,24 @@
         "OutputMappings": [
           {
             "Project": "Paroxetine-Desipramine-DDGI",
-            "Simulation": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
+            "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM), desipramine",
+            "ObservedData": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM), desipramine",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#5F63D9",
-            "Caption": "Brøsen 1993, DES (100 mg s.d. po), n = 5 NM",
+            "Caption": "Brosen 1993, DES (100 mg s.d. po), n = 5 NM",
             "Symbol": "Circle"
           },
           {
             "Project": "Paroxetine-Desipramine-DDGI",
-            "Simulation": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=5 (EM)",
+            "Simulation": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=5 (EM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=5 (EM), desipramine",
+            "ObservedData": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=5 (EM), desipramine",
             "StartTime": 240,
             "TimeUnit": "h",
             "Color": "#A4A3E6",
-            "Caption": "Brøsen 1993, DES (+ PAR, 20 mg q.d. po), n = 5 NM",
+            "Caption": "Brosen 1993, DES (+ PAR, 20 mg q.d. po), n = 5 NM",
             "Symbol": "Circle"
           }
         ]
@@ -2392,24 +2429,24 @@
         "OutputMappings": [
           {
             "Project": "Paroxetine-Desipramine-DDGI",
-            "Simulation": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM)",
+            "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM), desipramine",
+            "ObservedData": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM), desipramine",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#5F63D9",
-            "Caption": "Brøsen 1993, DES (100 mg s.d. po), n = 4 fast NM",
+            "Caption": "Brosen 1993, DES (100 mg s.d. po), n = 4 fast NM",
             "Symbol": "Circle"
           },
           {
             "Project": "Paroxetine-Desipramine-DDGI",
-            "Simulation": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=4 (fast EM)",
+            "Simulation": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=4 (fast EM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=4 (fast EM), desipramine",
+            "ObservedData": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=4 (fast EM), desipramine",
             "StartTime": 240,
             "TimeUnit": "h",
             "Color": "#A4A3E6",
-            "Caption": "Brøsen 1993, DES (+ PAR, 20 mg q.d. po), n = 4 fast NM",
+            "Caption": "Brosen 1993, DES (+ PAR, 20 mg q.d. po), n = 4 fast NM",
             "Symbol": "Circle"
           }
         ]
@@ -2452,24 +2489,24 @@
         "OutputMappings": [
           {
             "Project": "Quinidine-Desipramine-DDI",
-            "Simulation": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+            "Simulation": "Brosen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine",
+            "ObservedData": "Brosen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM), desipramine",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#5F63D9",
-            "Caption": "Brøsen 1989, DES (100 mg s.d. po), n = 6",
+            "Caption": "Brosen 1989, DES (100 mg s.d. po), n = 6",
             "Symbol": "Circle"
           },
           {
             "Project": "Quinidine-Desipramine-DDI",
-            "Simulation": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
+            "Simulation": "Brosen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
             "Output": "Organism|PeripheralVenousBlood|Desipramine|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine",
+            "ObservedData": "Brosen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM), desipramine",
             "StartTime": 60,
             "TimeUnit": "h",
             "Color": "#A4A3E6",
-            "Caption": "Brøsen 1989, DES (+ QUI, 200 mg q.d. po), n = 6",
+            "Caption": "Brosen 1989, DES (+ QUI, 200 mg q.d. po), n = 6",
             "Symbol": "Circle"
           }
         ]
@@ -3611,6 +3648,477 @@
             "Symbol": "Triangle"
           }
         ]
+      },
+      {
+        "SectionReference": "clomiphene-dgi-timeprofile",
+        "Title": "Clomiphene DGI - (E)-clomiphene",
+        "SimulationDuration": 264,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+            "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0, (E)-clomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Kovar 2022, AS=0, n=6",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+            "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.5, (E)-clomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Kovar 2022, AS=0.5, n=4",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+            "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.75, (E)-clomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Kovar 2022, AS=0.75, n=1",
+            "Symbol": "Square"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+            "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=1, (E)-clomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#F2B701",
+            "Caption": "Kovar 2022, AS=1, n=2",
+            "Symbol": "Diamond"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=2, (E)-clomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Kovar 2022, AS=2, n=3",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=3, (E)-clomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#80BA5A",
+            "Caption": "Kovar 2022, AS=3, n=3",
+            "Symbol": "Triangle"
+          }
+        ]
+      },
+      {
+        "SectionReference": "clomiphene-dgi-timeprofile",
+        "Title": "Clomiphene DGI - (E)-4-hydroxyclomiphene",
+        "SimulationDuration": 264,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0, (E)-4-hydroxyclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Kovar 2022, AS=0, n=6",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.5, (E)-4-hydroxyclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Kovar 2022, AS=0.5, n=4",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.75, (E)-4-hydroxyclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Kovar 2022, AS=0.75, n=1",
+            "Symbol": "Square"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=1, (E)-4-hydroxyclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#F2B701",
+            "Caption": "Kovar 2022, AS=1, n=2",
+            "Symbol": "Diamond"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=2, (E)-4-hydroxyclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Kovar 2022, AS=2, n=3",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=3, (E)-4-hydroxyclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#80BA5A",
+            "Caption": "Kovar 2022, AS=3, n=3",
+            "Symbol": "Triangle"
+          }
+        ]
+      },
+      {
+        "SectionReference": "clomiphene-dgi-timeprofile",
+        "Title": "Clomiphene DGI - (E)-N-desethylclomiphene",
+        "SimulationDuration": 264,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+            "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0, (E)-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Kovar 2022, AS=0, n=6",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+            "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.5, (E)-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Kovar 2022, AS=0.5, n=4",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+            "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.75, (E)-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Kovar 2022, AS=0.75, n=1",
+            "Symbol": "Square"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+            "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=1, (E)-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#F2B701",
+            "Caption": "Kovar 2022, AS=1, n=2",
+            "Symbol": "Diamond"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=2, (E)-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Kovar 2022, AS=2, n=3",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=3, (E)-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#80BA5A",
+            "Caption": "Kovar 2022, AS=3, n=3",
+            "Symbol": "Triangle"
+          }
+        ]
+      },
+      {
+        "SectionReference": "clomiphene-dgi-timeprofile",
+        "Title": "Clomiphene DGI - (E)-4-hydroxy-N-desethylclomiphene",
+        "SimulationDuration": 264,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0, (E)-4-hydroxy-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Kovar 2022, AS=0, n=6",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.5, (E)-4-hydroxy-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Kovar 2022, AS=0.5, n=4",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=0.75, (E)-4-hydroxy-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Kovar 2022, AS=0.75, n=1",
+            "Symbol": "Square"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=1, (E)-4-hydroxy-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#F2B701",
+            "Caption": "Kovar 2022, AS=1, n=2",
+            "Symbol": "Diamond"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=2, (E)-4-hydroxy-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Kovar 2022, AS=2, n=3",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Clomiphene-DGI",
+            "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+            "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "IKP AS=3, (E)-4-hydroxy-N-desethylclomiphene, 42 mg po s.d.",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#80BA5A",
+            "Caption": "Kovar 2022, AS=3, n=3",
+            "Symbol": "Triangle"
+          }
+        ]
+      },
+      {
+        "SectionReference": "atomoxetine-dgi-timeprofile",
+        "Title": "Atomoxetine DGI - Byeon 2015",
+        "SimulationDuration": 72,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Atomoxetine-DGI",
+            "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
+            "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5), atomoxetine",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Byeon 2015, AS=0.5, n=18",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Atomoxetine-DGI",
+            "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
+            "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25), atomoxetine",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Byeon 2015, AS=1.25, n=22",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Atomoxetine-DGI",
+            "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
+            "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2), atomoxetine",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Byeon 2015, AS=2, n=22",
+            "Symbol": "Square"
+          }
+        ]
+      },
+      {
+        "SectionReference": "atomoxetine-dgi-timeprofile",
+        "Title": "Atomoxetine DGI - Kim 2018",
+        "SimulationDuration": 72,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Atomoxetine-DGI",
+            "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
+            "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5), atomoxetine",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Kim 2018, AS=0.5, n=8",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Atomoxetine-DGI",
+            "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
+            "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2), atomoxetine",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#80BA5A",
+            "Caption": "Kim 2018, AS=2, n=11",
+            "Symbol": "Triangle"
+          }
+        ]
+      },
+      {
+        "SectionReference": "risperidone-dgi-timeprofile",
+        "Title": "Risperidone DGI - Risperidone",
+        "SimulationDuration": 48,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+            "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), risperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Novalbos 2010, AS=0, n=6",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+            "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), risperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Novalbos 2010, AS=1, n=26",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+            "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), risperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Novalbos 2010, AS=2, n=33",
+            "Symbol": "Square"
+          },
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+            "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), risperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Novalbos 2010, AS=3, n=6",
+            "Symbol": "Diamond"
+          }
+        ]
+      },
+      {
+        "SectionReference": "risperidone-dgi-timeprofile",
+        "Title": "Risperidone DGI - 9-Hydroxyrisperidone",
+        "SimulationDuration": 48,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+            "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0), 9-hydroxyrisperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#7F3C8D",
+            "Caption": "Novalbos 2010, AS=0, n=6",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+            "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1), 9-hydroxyrisperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#3969AC",
+            "Caption": "Novalbos 2010, AS=1, n=26",
+            "Symbol": "Triangle"
+          },
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+            "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2), 9-hydroxyrisperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#11A579",
+            "Caption": "Novalbos 2010, AS=2, n=33",
+            "Symbol": "Square"
+          },
+          {
+            "Project": "Risperidone-DGI",
+            "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+            "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3), 9-hydroxyrisperidone",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#E73F74",
+            "Caption": "Novalbos 2010, AS=3, n=6",
+            "Symbol": "Diamond"
+          }
+        ]
       }
     ],
     "DDIRatioPlots": [
@@ -3689,14 +4197,14 @@
                 "ObservedDataRecordId": 16946,
                 "SimulationControl": {
                   "Project": "Quinidine-Digoxin-DDI",
-                  "Simulation": "Steiness (1980) - digoxin, iv bolus, 15 µg/kg, n=6",
+                  "Simulation": "Steiness (1980) - digoxin, iv bolus, 15 mcg/kg, n=6",
                   "StartTime": 0,
                   "EndTime": 80,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Quinidine-Digoxin-DDI",
-                  "Simulation": "Steiness (1980) - DDI - quinidine-digoxin, po/iv bolus, 200 mg/10 µg/kg, n=6",
+                  "Simulation": "Steiness (1980) - DDI - quinidine-digoxin, po/iv bolus, 200 mg/10 mcg/kg, n=6",
                   "StartTime": 192,
                   "EndTime": 272,
                   "TimeUnit": "h"
@@ -4157,14 +4665,14 @@
                 "ObservedDataRecordId": 17096,
                 "SimulationControl": {
                   "Project": "Quinidine-Desipramine-DDI",
-                  "Simulation": "Brøsen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
+                  "Simulation": "Brosen (1989) - desipramine hydrochloride, po, 100 mg, n=6 (EM)",
                   "StartTime": 0,
                   "EndTime": 72,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Quinidine-Desipramine-DDI",
-                  "Simulation": "Brøsen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
+                  "Simulation": "Brosen (1989) - DDI - quinidine-desipramine, po, 200/100 mg, n=6 (EM)",
                   "StartTime": 60,
                   "EndTime": 288,
                   "TimeUnit": "h"
@@ -6199,14 +6707,14 @@
                 "ObservedDataRecordId": 17086,
                 "SimulationControl": {
                   "Project": "Paroxetine-Desipramine-DDGI",
-                  "Simulation": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM)",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=8 (PM)",
                   "StartTime": 0,
                   "EndTime": 240,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Paroxetine-Desipramine-DDGI",
-                  "Simulation": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=8 (PM)",
+                  "Simulation": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=8 (PM)",
                   "StartTime": 240,
                   "EndTime": 480,
                   "TimeUnit": "h"
@@ -6225,14 +6733,14 @@
                 "ObservedDataRecordId": 17088,
                 "SimulationControl": {
                   "Project": "Paroxetine-Desipramine-DDGI",
-                  "Simulation": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=5 (EM)",
                   "StartTime": 0,
                   "EndTime": 240,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Paroxetine-Desipramine-DDGI",
-                  "Simulation": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=5 (EM)",
+                  "Simulation": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=5 (EM)",
                   "StartTime": 240,
                   "EndTime": 480,
                   "TimeUnit": "h"
@@ -6251,14 +6759,14 @@
                 "ObservedDataRecordId": 17090,
                 "SimulationControl": {
                   "Project": "Paroxetine-Desipramine-DDGI",
-                  "Simulation": "Brøsen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM)",
+                  "Simulation": "Brosen (1993) - desipramine hydrochloride, po, 100 mg, n=4 (fast EM)",
                   "StartTime": 0,
                   "EndTime": 240,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Paroxetine-Desipramine-DDGI",
-                  "Simulation": "Brøsen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=4 (fast EM)",
+                  "Simulation": "Brosen (1993) - DDI - paroxetine-desipramine, po, 20/100 mg, n=4 (fast EM)",
                   "StartTime": 240,
                   "EndTime": 480,
                   "TimeUnit": "h"
@@ -6683,6 +7191,620 @@
             ]
           }
         ]
+      },
+      {
+        "SectionReference": "dgi-ratio-plots",
+        "Title": "CYP2D6 DGIs",
+        "PKParameter": "AUC|CMAX",
+        "PlotType": "predictedVsObserved|residualsVsObserved",
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure",
+          "Table"
+        ],
+        "Groups": [
+          {
+            "Caption": "(E)-clomiphene",
+            "Color": "#7F3C8D",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900001,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900002,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900003,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900004,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-clomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900005,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "(E)-4-hydroxyclomiphene",
+            "Color": "#11A579",
+            "Symbol": "Triangle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900006,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900007,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900008,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900009,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxyclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900010,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "(E)-N-desethylclomiphene",
+            "Color": "#3969AC",
+            "Symbol": "Square",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900011,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900012,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900013,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900014,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900015,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 72,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "(E)-4-hydroxy-N-desethylclomiphene",
+            "Color": "#E73F74",
+            "Symbol": "Diamond",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900016,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0, 42 mg po s.d., n=6",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900017,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.5, 42 mg po s.d., n=4",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900018,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=0.75, 42 mg po s.d., n=1",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900019,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=1, 42 mg po s.d., n=2",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|(E)-4-hydroxy-N-desethylclomiphene|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900020,
+                "SimulationControl": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=2, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Clomiphene-DGI",
+                  "Simulation": "IKP AS=3, 42 mg po s.d., n=3",
+                  "StartTime": 0,
+                  "EndTime": 168,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Atomoxetine",
+            "Color": "#80BA5A",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900021,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 11.973,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=18 (AS=0.5)",
+                  "StartTime": 0,
+                  "EndTime": 11.973,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900022,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), n=22 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 11.955,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Byeon (2015) - atomoxetine, 40 mg (dose normalized), po, n=22 (AS=1.25)",
+                  "StartTime": 0,
+                  "EndTime": 11.955,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Atomoxetine|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900023,
+                "SimulationControl": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=11 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 11.963,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Atomoxetine-DGI",
+                  "Simulation": "Kim (2018) - atomoxetine, 20 mg, po, n=8 (AS=0.5)",
+                  "StartTime": 0,
+                  "EndTime": 11.963,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Risperidone",
+            "Color": "#E68310",
+            "Symbol": "Triangle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900024,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 24.009,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+                  "StartTime": 0,
+                  "EndTime": 24.009,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900025,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 23.988,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+                  "StartTime": 0,
+                  "EndTime": 23.988,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Risperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900026,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 11.965,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+                  "StartTime": 0,
+                  "EndTime": 11.965,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "9-Hydroxyrisperidone",
+            "Color": "#008695",
+            "Symbol": "Square",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900027,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=0)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900028,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=26 (AS=1)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|9-Hydroxyrisperidone|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DGI Ratios",
+                "ObservedDataRecordId": 900029,
+                "SimulationControl": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=33 (AS=2)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Risperidone-DGI",
+                  "Simulation": "Novalbos (2010) - risperidone, 1 mg, po, n=6 (AS=3)",
+                  "StartTime": 0,
+                  "EndTime": 48,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -6922,6 +8044,58 @@
             {
               "Reference": "verapamil-risperidone-ddi-timeprofile",
               "Title": "Verapamil - Risperidone DDI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Reference": "dgi-evaluations",
+      "Title": "DGI Evaluations",
+      "Content": "Content/Intro_evaluation_DGI.md",
+      "Sections": [
+        {
+          "Reference": "dgi-parent-model-evaluations",
+          "Title": "DGI Parent-Model Evaluations",
+          "Sections": [
+            {
+              "Reference": "clomiphene-dgi",
+              "Title": "Clomiphene DGI",
+              "Content": "Content/Clomiphene-DGI.md"
+            },
+            {
+              "Reference": "atomoxetine-dgi",
+              "Title": "Atomoxetine DGI",
+              "Content": "Content/Atomoxetine-DGI.md"
+            },
+            {
+              "Reference": "risperidone-dgi",
+              "Title": "Risperidone DGI",
+              "Content": "Content/Risperidone-DGI.md"
+            }
+          ]
+        },
+        {
+          "Reference": "dgi-ratio-plots",
+          "Title": "DGI Ratio Plots",
+          "Content": "Content/Intro_evaluation_DGI_ratios.md"
+        },
+        {
+          "Reference": "dgi-concentration-time-profiles",
+          "Title": "DGI Concentration-Time Profiles",
+          "Content": "Content/Intro_evaluation_CTprofiles.md",
+          "Sections": [
+            {
+              "Reference": "clomiphene-dgi-timeprofile",
+              "Title": "Clomiphene DGI"
+            },
+            {
+              "Reference": "atomoxetine-dgi-timeprofile",
+              "Title": "Atomoxetine DGI"
+            },
+            {
+              "Reference": "risperidone-dgi-timeprofile",
+              "Title": "Risperidone DGI"
             }
           ]
         }

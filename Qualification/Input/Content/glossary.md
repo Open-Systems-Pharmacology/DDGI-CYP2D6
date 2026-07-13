@@ -15,6 +15,7 @@
 | CYP     | cytochrome P450                                                 |
 | DDI     | drug-drug interaction                                           |
 | DDGI    | Drug-drug-gene interaction                                      |
+| DGI     | drug-gene interaction                                           |
 | DES     | desipramine                                                     |
 | DEX     | dextromethorphan                                                |
 | DIG     | digoxin                                                         |
